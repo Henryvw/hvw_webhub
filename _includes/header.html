@@ -1,19 +1,41 @@
- <header class="site-header mb-3" role="banner">
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-{%- assign default_paths = site.pages | map: "path" -%}
-{%- assign page_paths = site.header_pages | default: default_paths -%} <div class="container-md">
-<a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupported
-<span class="navbar-toggler-icon"></span>
-</button>
-<div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="navbar-nav me-auto mb-2 mb-lg-0"> {%- for path in page_paths -%}
-{%- assign my_page = site.pages | where: "path", path | first -%} {%- if my_page.title -%}
-<li class="nav-item">
-<a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a> </li>
-            {%- endif -%}
-          {%- endfor -%}
-	  <li>	  <a class="nav-link" href="https://github.com/henryvw">Code</a> </li>
-</ul> </div>
+<header class="site-header mb-3" role="banner">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/">Henry van Wagenberg</a>
+      <div class="container-md">
+        <ul class="nav nav-tabs">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" id="about-tab" href="/about#about-tab">About</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Projects</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="https://baugarten.app">Baugarten Algebra Game</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="https://www.StoicPenknife.com">Stoic Penknife</a></li>
+              <li><a class="dropdown-item" href="/projects/office.html">Berlin Office Community</a></li>
+              <li><a class="dropdown-item" href="https://baugarten.io">Freelance Web Dev</a></li>
+              <li><a class="dropdown-item" href="/projects/wohngemeinschaft.html">DD Wohngemeinschaft</a></li>
+              <li><a class="dropdown-item" href="/projects/salons.html">Philosophy Salons</a></li>
+              <li><a class="dropdown-item" href="/projects/ratemystudyabroad.html">RateMyStudyAbroad</a></li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="writing-tab" href="/writing.html#writing-tab">Writing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/interviews.html">Interviews</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/music.html">Music</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/drawing.html">Drawing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/quotes_i_like.html">Quotes I Like</a>
+          </li>
+        </ul>
+      </div>
     </div>
-  </nav>
-</header>
+</nav>
