@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /About
 ---
 
 <div class="container">

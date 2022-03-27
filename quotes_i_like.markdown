@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Quotes I Like
+permalink: /Quotes_I_Like
 ---
 <div class="alert alert-primary" role="alert">
   A simple primary alert—check it out!
