@@ -1,0 +1,47 @@
+
+//Override Bootstrap variables - before adding bootstrap
+//Fonts
+$font-size-base: 1.1rem !default; // Assumes the browser default, typically `16px`
+
+//Colors
+$blue: #458588 !default;
+$indigo: #b16286 !default; // dark-blue
+$red: #cc241d !default; // 124 red
+$orange: #d65d0e !default; // 166 orange
+$yellow: #fabd2f !default; // 214 yellow
+$green: #98971a !default; // 106 green
+$black: #3a3335 !default; //coffee black
+
+@import "minima";
+@import "bootstrap/bootstrap";
+
+
+@font-face {
+	font-family: "bigjohn";
+	src: url("/assets/fonts/BigJohnPRO-Regular.otf");
+}
+
+.page-content {
+	padding-top: 5px;
+}
+
+.wrapper {
+	@media only screen 
+	and (min-width : 1224px) {
+		max-width: 75%;
+	}
+
+}
+
+body {
+	font-family: "bigjohn", bigjohn;
+}
+
+.homepage {
+	background-image: url("/assets/images/henry_van_wagenberg.jpg"); /* fallback */
+	background-color: rgba(54, 198, 1, 0.15); /* use rgba for fine adjustments */
+	background-size:cover;
+
+	background-blend-mode: multiply;
+}
+
