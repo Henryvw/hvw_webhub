@@ -3,52 +3,48 @@ layout: default
 title: Quotes I Like
 permalink: /Quotes_I_Like
 ---
-<div class="alert alert-primary" role="alert">
-  A simple primary alert—check it out!
-</div>
-<section class="vh-100" style="background-color: #CDC4F9;">
-  <div class="container py-5 h-100">
-    <div class="row d-flex justify-content-center align-items-center h-100">
-      <div class="col col-lg-10 col-xl-8">
 
-        <div class="card rounded-3">
-          <div class="card-body p-5">
+<div class="row row-cols-1 row-cols-md-2 g-4">
 
-            <div class="d-flex justify-content-center mb-4">
-              <img
-                src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(28).webp"
-                class="rounded-circle shadow-1-strong"
-                width="100"
-                height="100"
-              />
-            </div>
-            <figure class="text-center mb-0">
-              <blockquote class="blockquote mb-4">
-                <p>
-                  <span class="font-italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sint nesciunt ad itaque aperiam expedita officiis incidunt minus facere molestias inventore.</span>
-                </p>
-              </blockquote>
-              <figcaption class="blockquote-footer mb-0">
-                Kate Williams in <cite title="Source Title">Vogue</cite>
-              </figcaption>
-            </figure>
-          </div>
-        </div>
-
-
+  <div class="col">
+    <div class="card h-100 bg-success text-white">
+      <img src="assets/images/tree.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-text">"Wo große Liebe zu sich selber ist, da ist sie der Schwangerschaft Wahrzeichen. Noch grünen mir meine Kinder in ihrem ersten Frühlinge, nahe beinander stehend und gemeinsam von Winden geschüttelt, die Bäume meines Gartens und besten Erdreichs. Knorrig und gekrümmt und mit biegsamer Härte soll er mir dann am Meere dastehe, ein lebendiger Leuchtturm unbesiegbaren Lebens."</h5>
+      </div>
+      <div class="card-footer">
+        Friedrich Nietzsche, <cite title="Also Sprach Zarathustra">Also Sprach Zarathustra</cite>
       </div>
     </div>
   </div>
-</section>
+  <div class="col">
+    <div class="card h-100 bg-primary text-white">
+      <img src="assets/images/tree.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-text">"All Life is figured by them [the Norse] as a Tree. Igdrasil, the Ash tree of existence, has its roots deep down in the kingdoms of Hela or Death; its trunk reaches up heaven-high, spreads its boughs over the whole universe: it is the tree of existence. At the foot of it sit three “Nornas”, Fates,—past, present and future, watering its roots from the sacred well. Its “boughs”, with their buddings and disleafings? —events, things suffered, things done, catastrophes, — stretch through all lands and time. Is not every leaf a biography? Its boughs are Histories of Nations. The rustle of it is the noise of Human Existence. It grows there, the breath of human passion rustling through it… the infinite conjugation of the verb’to do.'"</h5>
+      </div>
+      <div class="card-footer">
+        Thomas Carlyle, <cite title="Lecture I. The Hero as Divinity. Odin. Paganism: Scandanivian Mythology.">Lecture I. The Hero as Divinity. Odin. Paganism: Scandanivian Mythology.</cite>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
+
 ![tree](/assets/images/tree.jpg)
-"Wo große Liebe zu sich selber ist, da ist sie der Schwangerschaft Wahrzeichen. Noch grünen mir meine Kinder in ihrem ersten Frühlinge, nahe beinander stehend und gemeinsam von Winden geschüttelt, die Bäume meines Gartens und besten Erdreichs. Knorrig und gekrümmt und mit biegsamer Härte soll er mir dann am Meere dastehe, ein lebendiger Leuchtturm unbesiegbaren Lebens."
+  "Wo große Liebe zu sich selber ist, da ist sie der Schwangerschaft Wahrzeichen. Noch grünen mir meine Kinder in ihrem ersten Frühlinge, nahe beinander stehend und gemeinsam von Winden geschüttelt, die Bäume meines Gartens und besten Erdreichs. Knorrig und gekrümmt und mit biegsamer Härte soll er mir dann am Meere dastehe, ein lebendiger Leuchtturm unbesiegbaren Lebens."
 
-— Friedrich Nietsche, _Also Sprach Zarathustra_
+  — Friedrich Nietsche, _Also Sprach Zarathustra_
 
-"All Life is figured by them [the Norse] as a Tree. Igdrasil, the Ash tree of existence, has its roots deep down in the kingdoms of Hela or Death; its trunk reaches up heaven-high, spreads its boughs over the whole universe: it is the tree of existence. At the foot of it sit three “Nornas”, Fates,—past, present and future, watering its roots from the sacred well. Its “boughs”, with their buddings and disleafings? —events, things suffered, things done, catastrophes, — stretch through all lands and time. Is not every leaf a biography? Its boughs are Histories of Nations. The rustle of it is the noise of Human Existence. It grows there, the breath of human passion rustling through it… the infinite conjugation of the verb'to do.'" 	
+  "All Life is figured by them [the Norse] as a Tree. Igdrasil, the Ash tree of existence, has its roots deep down in the kingdoms of Hela or Death; its trunk reaches up heaven-high, spreads its boughs over the whole universe: it is the tree of existence. At the foot of it sit three “Nornas”, Fates,—past, present and future, watering its roots from the sacred well. Its “boughs”, with their buddings and disleafings? —events, things suffered, things done, catastrophes, — stretch through all lands and time. Is not every leaf a biography? Its boughs are Histories of Nations. The rustle of it is the noise of Human Existence. It grows there, the breath of human passion rustling through it… the infinite conjugation of the verb'to do.'" 	
 
-— Thomas Carlyle,  _Lecture I. The Hero as Divinity. Odin. Paganism: Scandanivian Mythology._
-<hr>
+  — Thomas Carlyle,  _Lecture I. The Hero as Divinity. Odin. Paganism: Scandanivian Mythology._
+  <hr>
 
 
 ![ship](/assets/images/ship.jpg)
@@ -607,13 +603,18 @@ looking for an angry fix, 	Allen Ginsberg, "Howl"
 Love is a snowmobile racing across the tundra and then suddenly it flips over, pinning you underneath. At night, the ice weasels come.	Matt Groening (The Simpsons)
 
 
-Listen to the MUSTN'TS, child,	-Shel Silverstein
-Listen to the DON'TS	
-Listen to the SHOULDN'TS	
-The IMPOSSIBLES, the WON'TS	
-Listen to the NEVER HAVES	
-Then listen close to me -	
-Anything can happen, child,	
-ANYTHING can be.	
+Listen to the MUSTN'TS, child,	
+Listen to the DON'TS  
+Listen to the SHOULDN'TS	 
+The IMPOSSIBLES, the WON'TS	 
+Listen to the NEVER HAVES	 
+Then listen close to me -	 
+Anything can happen, child,	 
+ANYTHING can be.
+	
+— Shel Silverstein
+
+"Joy is to be present to oneself in truth."
+— Søren Kierkegaard
 
 The generous and bold have the best lives.	Icelandic proverb
