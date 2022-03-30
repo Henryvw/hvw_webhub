@@ -11,7 +11,7 @@ permalink: /About
 			</h2>
 			<br />
 			<p>
-				I’m an entrepreneur, writer, pianist, coder and artist living in Berlin, Germany.
+				I’m an entrepreneur living in Berlin, Germany.
 			</p>
 			<p>
 				My key project is <a href="http://baugarten.app"> Baugarten, the world-building computer game that teaches algebra</a>.
