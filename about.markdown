@@ -21,7 +21,7 @@ permalink: /About
 			</p>
 
 			<p>
-				You can read <a href="../curriculum vitae.html">here about my past work experiences</a>. I’ve harvested broccoli in Denmark, interned for the Taiwanese government, sailed as a tall-ship deckhand from Hawaii to California, interned at the White House, worked in sales in New York, studied ancient philosophy for a year alone in a cottage, managed a restaurant, sold my first startup, managed a team of Philippines programmers while living on their island and freelanced as a programmer for many of Berlin’s largest startups.
+				You can read <a href="../curriculum vitae.html">here about my past work experiences</a>. I’ve harvested broccoli in Denmark, interned for the Taiwanese government, sailed as a tall-ship deckhand from Hawaii to California, interned at the White House, worked in sales in New York, studied ancient philosophy for a year alone in a cottage, managed a restaurant, sold my first startup, managed a Philippines tech team while living on their island, Leyte, and freelanced as a programmer for many of Berlin’s largest startups.
 			</p>
 			<p>
 			I’ve studied Mandarin Chinese at Middlebury College, business at Universität Würzburg and Liberal Arts -- majoring in English and minoring in Economics -- at Davidson College. I'm fluent in spoken and written German. I hold dual United States and EU (Italian) citizenship.
@@ -30,18 +30,26 @@ permalink: /About
 			My heroes are Goethe, Churchill and DaVinci. All three men were artists of words, pictures, and their own lives.
 			</p>
 
-			<img src="/assets/images/interests.jpg"/>
+			<img border="1.5" src="/assets/images/interests.jpg"/>
 		</div>
 		<div class="col">
-			<img src="/assets/images/henry_tall_interests.jpg"/>
+			<img border="1.5" src="/assets/images/henry_tall_interests.jpg"/>
 			<br/>
 			<br/>
 			<p>
 			My favorite programming language is Ruby. I enjoy gardening and dancing. 
 			</p>
+<figure>
+  <blockquote class="blockquote">
+    <p>“Die stillsten Worte sind es, welche den Sturm bringen. Gedanken, die mit Taubenfüssen kommen, lenken die Welt.”</p>
+  </blockquote>
+  <figcaption class="blockquote-footer">
+    Friedrich Nietzsche, <cite title="Also Sprach Zarathustra">Also Sprach Zarathustra</cite>
+  </figcaption>
+</figure>
 			<br/>
 			<br/>
-			<img src="/assets/images/henry_face.jpg"/>
+			<img border="1.5" src="/assets/images/henry_face.jpg"/>
 		</div>
 	</div>
 </div>
