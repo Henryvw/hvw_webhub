@@ -4,11 +4,9 @@ title: Quotes I Like
 permalink: /Quotes_I_Like
 ---
 
-<div class="row row-cols-1 row-cols-md-2 g-4">
-
-  <div class="col">
-    <div class="card h-100 bg-success text-white">
-      <img src="assets/images/tree.jpg" class="card-img-top" alt="...">
+<div class="card mb-3 bg-indigo text-white" style="max-width: 1200px;">
+  <div class="row g-0">
+    <div class="col-md-9 ">
       <div class="card-body">
         <h5 class="card-text">"Wo große Liebe zu sich selber ist, da ist sie der Schwangerschaft Wahrzeichen. Noch grünen mir meine Kinder in ihrem ersten Frühlinge, nahe beinander stehend und gemeinsam von Winden geschüttelt, die Bäume meines Gartens und besten Erdreichs. Knorrig und gekrümmt und mit biegsamer Härte soll er mir dann am Meere dastehe, ein lebendiger Leuchtturm unbesiegbaren Lebens."</h5>
       </div>
@@ -16,10 +14,15 @@ permalink: /Quotes_I_Like
         Friedrich Nietzsche, <cite title="Also Sprach Zarathustra">Also Sprach Zarathustra</cite>
       </div>
     </div>
+    <div class="col-md-3 d-flex align-items-center">
+      <img src="/assets/images/tree.jpg" class="img-fluid rounded-start" alt="...">
+    </div>
   </div>
-  <div class="col">
-    <div class="card h-100 bg-primary text-white">
-      <img src="assets/images/tree.jpg" class="card-img-top" alt="...">
+</div>
+
+<div class="card mb-3 bg-primary text-white" style="max-width: 1200px;">
+  <div class="row g-0">
+    <div class="col-md-9 ">
       <div class="card-body">
         <h5 class="card-text">"All Life is figured by them [the Norse] as a Tree. Igdrasil, the Ash tree of existence, has its roots deep down in the kingdoms of Hela or Death; its trunk reaches up heaven-high, spreads its boughs over the whole universe: it is the tree of existence. At the foot of it sit three “Nornas”, Fates,—past, present and future, watering its roots from the sacred well. Its “boughs”, with their buddings and disleafings? —events, things suffered, things done, catastrophes, — stretch through all lands and time. Is not every leaf a biography? Its boughs are Histories of Nations. The rustle of it is the noise of Human Existence. It grows there, the breath of human passion rustling through it… the infinite conjugation of the verb’to do.'"</h5>
       </div>
@@ -27,8 +30,26 @@ permalink: /Quotes_I_Like
         Thomas Carlyle, <cite title="Lecture I. The Hero as Divinity. Odin. Paganism: Scandanivian Mythology.">Lecture I. The Hero as Divinity. Odin. Paganism: Scandanivian Mythology.</cite>
       </div>
     </div>
+    <div class="col-md-3 d-flex align-items-center">
+      <img src="/assets/images/tree.jpg" class="img-fluid rounded-start" alt="...">
+    </div>
   </div>
+</div>
 
+<div class="card mb-3 bg-danger text-white" style="max-width: 1200px;">
+  <div class="row g-0">
+    <div class="col-md-9 ">
+      <div class="card-body">
+        <h5 class="card-text">"“In dem Augenblick, in dem man sich endgültig einer Aufgabe verschreibt, bewegt sich die Vorsehung auch. Alle möglichen Dinge, die sonst nie geschehen wären, geschehen, um einem zu helfen. Ein ganzer Strom von Ereignissen wird in Gang gesetzt durch die Entscheidung, und er sorgt zu den eigenen Gunsten für zahlreiche unvorhergesehene Zufälle, Begegnungen und materielle Hilfen, die sich kein Mensch vorher je so erträumt haben könnte. Was immer Du kannst, beginne es. Kühnheit trägt Genius, Macht und Magie.”</h5>
+      </div>
+      <div class="card-footer">
+        Goethe
+      </div>
+    </div>
+    <div class="col-md-3 d-flex align-items-center">
+      <img src="/assets/images/humboldt.jpg" class="img-fluid rounded-start" alt="...">
+    </div>
+  </div>
 </div>
 
 
@@ -36,16 +57,7 @@ permalink: /Quotes_I_Like
 
 
 
-![tree](/assets/images/tree.jpg)
-  "Wo große Liebe zu sich selber ist, da ist sie der Schwangerschaft Wahrzeichen. Noch grünen mir meine Kinder in ihrem ersten Frühlinge, nahe beinander stehend und gemeinsam von Winden geschüttelt, die Bäume meines Gartens und besten Erdreichs. Knorrig und gekrümmt und mit biegsamer Härte soll er mir dann am Meere dastehe, ein lebendiger Leuchtturm unbesiegbaren Lebens."
-
-  — Friedrich Nietsche, _Also Sprach Zarathustra_
-
-  "All Life is figured by them [the Norse] as a Tree. Igdrasil, the Ash tree of existence, has its roots deep down in the kingdoms of Hela or Death; its trunk reaches up heaven-high, spreads its boughs over the whole universe: it is the tree of existence. At the foot of it sit three “Nornas”, Fates,—past, present and future, watering its roots from the sacred well. Its “boughs”, with their buddings and disleafings? —events, things suffered, things done, catastrophes, — stretch through all lands and time. Is not every leaf a biography? Its boughs are Histories of Nations. The rustle of it is the noise of Human Existence. It grows there, the breath of human passion rustling through it… the infinite conjugation of the verb'to do.'" 	
-
-  — Thomas Carlyle,  _Lecture I. The Hero as Divinity. Odin. Paganism: Scandanivian Mythology._
   <hr>
-
 
 ![ship](/assets/images/ship.jpg)
 "There are certain queer times and occasions in this stranger mixed affair we call life when a man takes this whole universe for a vast practical joke, though the wit thereof he but dimply discerns, and more than suspects that the joke is at nobody’s expense but his own... And, as for small difficulties and worryings, prospects of sudden disaster, peril of life and limb, all these, and death itself, seem to him only sly, good-natured hits, and jolly punches in the side bestowed by the unseen and unaccountable old joker.That odd sort of wayward mood I am speaking of comes over a man only in some time of extreme tribulation; it comes in the very midst of his earnestness; so that what just before might have seemed to him a thing most momentous, now seems but a part of the general joke. There is nothing like the perils of whaling to breed this free and easy sort of genial, desperado philosophy; and with it I now regarded this whole voyage of the _Pequod_, and the great White Whale its object."
@@ -141,10 +153,6 @@ Action relieves anxiety."	James Clear
 There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.	Charles Darwin, Origin of Species, Conclusion
 
 
-
-What is the value of preserving and strengthening this sense of awe and wonder, this recognition of something beyond the boundaries of human existence? Is the exploration of the natural world just a pleasant way to pass the golden hours of childhood or is there something deeper? I am sure there is something much deeper, something lasting and significant. Those who dwell, as scientists or laymen, among the beauties and mysteries of the Earth are never alone or weary of life. Whatever the vexations or concerns of their personal lives, their thoughts can find paths that lead to inner contentment and to renewed excitement in living.	Rachel Carson
-
-
 Seine Affekte, sein Für und Wider willkürlich haben und nicht haben, sich auf sie herablassen, für Stunden; sich auf sie setzen, wie auf Pferde, oft wie auf Esel: -- man muss nämlich ihre Dummheit so gut wie ihr Feuer zu nützen wissen."	Friedrich Nietzsche, Jenseits Gut und Böse
 
 Mental toughness is persistence not intensity.	James Clear
@@ -153,9 +161,7 @@ Mental toughness is persistence not intensity.	James Clear
 Concentrate all your thoughts upon the work at hand. The sun’s rays do not burn until brought to a focus.	Alexander Graham Bell
 
 
-
-He who jumps into the void owes no explanation to those who stand and watch.	Jean-Luc Godard, French-Swiss Film Director
-
+He who jumps into the void owes no explanation to those who stand and watch.	Jean-Luc Godard
 
 
 "Your 1st blog post will be bad, but your 1000th will be great.
@@ -215,8 +221,6 @@ He who is brave is free.	Seneca
 No man was ever wise by chance.	Seneca
 There is no genius without a touch of madness.	Seneca
 The fool, with all his other faults, has this also, he is always getting ready to live.	Seneca
-
-If you know the point of balance, you can settle the details. If you can settle the details, you can stop running around. Your mind will become calm. If your mind becomes calm, you can think in front of a tiger. If you can think in front of a tiger, you will surely succeed.	Mencius
 
 
 Energy follows thought.	David Allen
@@ -342,7 +346,8 @@ A freedom fighter must use every opportunity to speak to people about his cause.
 
 My reigning sin, to which perhaps many others are appendant, is waste of time, and general sluggishness.	Samuel Johnson
 
-Whoso would be a man, must be a nonconformist. He who would gather immortal palms must not be hindered by the name of goodness, but must explore if it be goodness	Ralph Waldo Emerson
+Whoso would be a man, must be a nonconformist.
+Ralph Waldo Emerson 
 
 The braver one is, the happier one is.	Seneca
 
@@ -364,8 +369,7 @@ Danger should know that Caesar is more dangerous than he	Shakespeare - Julius Ca
 Sonne kann nicht ohne Schein / Mensch kann nicht ohne Liebe sein	Johann Wolfgang von Goethe
 
 
-"Water is the softest thing, yet it can penetrate mountains and earth. This shows clearly the principle of
-softness overcoming hardness."	Lao-Tzu
+"Water is the softest thing, yet it can penetrate mountains and earth."	Lao-Tzu
 
 
 Even amidst fierce flames the golden lotus can be planted.	Ted Hughes for Sylvia Plath's gravestone... also from Buddhist 16th century novel Journey To The West
@@ -374,10 +378,8 @@ Even amidst fierce flames the golden lotus can be planted.	Ted Hughes for Sylvia
 First make the change easy, then make the change.	Sandi Metz, kind of
 
 
-Teaching music is not my main purpose. I want to make good citizens. If children hear fine music from the day of their birth and learn to play it, they develop sensitivity, discipline and endurance. They get a beautiful heart.	Suzuki
+Teaching music is not my main purpose. If children hear fine music from the day of their birth and learn to play it, they develop sensitivity, discipline and endurance. They get a beautiful heart.	Suzuki
 
-
-The sick in soul insist that it is humanity that is sick, and they are the surgeons to operate on it.	Eric Hoffer
 
 It has often been said that power corrupts. But it is perhaps equally important to realize that weakness, too, corrupts. Power corrupts the few, while weakness corrupts the many. Hatred, malice, rudeness, intolerance, and suspicion are the faults of weakness. The resentment of the weak does not spring from any injustice done to them but from the sense of inadequacy and impotence. They hate not wickedness but weakness. When it is their power to do so, the weak destroy weakness wherever they see it.	Eric Hoffer
 
@@ -394,8 +396,6 @@ The cave you fear to enter holds the treasure that you seek.	Joseph Campbell (ch
 
 Approach the game with no preset agendas and you'll probably come away surprised at your overall efforts.	Phil Jackson, Great NBA Coach
 
-Ein Weiser wurde gefragt, welches die wichtigste Stunde sei, die der Mensch erlebt, welches der bedeutendste Mensch, der ihm begegnet, und welches das notwendigste Werk sei. Die Antwort lautete: Die wichtigste Stunde ist immer die Gegenwart, der bedeutendste Mensch immer der, der dir gerade gegenübersteht, und das notwendigste Werk ist immer die Liebe.	Meister Eckhart
-
 Success is the ability to go from failure to failure without losing your enthusiasm.	Winston Churchill
 
 The creative adult is the child who survived.	Ursula K. LeGuin
@@ -406,10 +406,7 @@ No bird soars in a calm.	Orville Wright
 
 Vielleicht sind alle Drachen unseres Lebens Prinzessinnen, die nur darauf warten uns einmal schön und mutig zu sehen. Vielleicht ist alles Schreckliche im Grunde das Hilflose, das von uns Hilfe will.	Rilke
 
-PS. Ihr alle, denen die wilde Arbeit lieb ist und das Schnelle, Neue, Fremde, - ihr ertragt euch schlecht, euer Fleiß ist Flucht und Wille, sich selber zu vergessen.	Nietzsche
-
 What the caterpillar calls the end, the rest of the world calls a butterfly.	Lao-Tzu
-
 
 Sitting quietly, doing nothing, Spring comes, and the grass grows by itself.	Matsuo Basho
 
@@ -531,8 +528,6 @@ The Greeks had a beautiful word for "vulgarity"; they called it apeirokalia, lac
 Only passions, great passions, can elevate the soul to great things.	Denis Diderot
 
 Write with the heart, revise with the head. -Finding Forrester
-
-"Here in town there's only she, who's beautiful as me.  So I'm making plans to woo and marry Belle... What would you say if you and I took a walk over to the tavern and took a look at my trophies.	Gaston
 
 "   Scrooge was better than his word. He did it all, and infinitely more; and to Tiny Tim, who did not die, he was a second father. He became as good a friend, as good a master, and as good a man, as the good old city knew, or any other good old city, town, or borough, in the good old world. Some people laughed to see the alteration in him, but he let them laugh, and little heeded them; for he was wise enough to know that nothing ever happened on this globe, for good, at which some people did not have their fill of laughter in the outset; and knowing that such as these would be blind anyway, he thought it quite as well that they should wrinkle up their eyes in grins, as have the malady in less attractive forms. His own heart laughed: and that was quite enough for him.
 
