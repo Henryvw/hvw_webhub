@@ -119,11 +119,10 @@ body {
 
 @media (min-width: 1200px){
   .position_cv_dates {
-    @include end-0(); 
     position: absolute;
-      property: right,
-      class: end,
-      values: $position-values
+      property: right;
+      class: end;
+      //values: $position-values;
   //Pseudocode what I want
   //Desktop card-text position-absolute top-0 end-0 mt-1 me-3
 
