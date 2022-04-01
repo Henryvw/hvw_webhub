@@ -2,8 +2,8 @@
 //Override Bootstrap variables - before adding bootstrap
 //Fonts
 $font-size-base: 1.15rem !default; // Assumes the browser default, typically `16px`
-$gray-400: #ced4da !default;
-$text-muted: $gray-400 !default;
+$gray-600: #ced4da !default;
+$text-muted: $gray-600 !default;
 //Colors
 $blue: #3DA5D9 !default;
 $indigo: #2364AA !default; // dark-blue
@@ -17,10 +17,16 @@ $black: #3a3335 !default; //coffee black
 @import "bootstrap/bootstrap";
 
 
+.bg-black {
+  background-color: $black;
+}
+
+.bg-orange {
+  background-color: $orange;
+}
 .bg-indigo {
   background-color: $indigo;
 }
-
 .nav-link.active,
 .nav-item.show .nav-link {
   color: $nav-tabs-link-active-color !important;
@@ -33,10 +39,6 @@ $black: #3a3335 !default; //coffee black
   background-color: $blue;
   color: $white;
   border-color: $blue;
-}
-
-.navbar-dark.navbar-nav.nav-link {
-  color: $white;
 }
 
 .nav-link.nav-indigo,
@@ -112,6 +114,21 @@ padding-bottom: 0;
 
 body {
   font-family: "bigjohn", bigjohn;
+}
+
+
+@media (min-width: 1200px){
+  .position_cv_dates {
+    @include end-0(); 
+    position: absolute;
+      property: right,
+      class: end,
+      values: $position-values
+  //Pseudocode what I want
+  //Desktop card-text position-absolute top-0 end-0 mt-1 me-3
+
+  //Mobile d-flex flex-row-reverse me-4
+  }
 }
 
 .homepage {
