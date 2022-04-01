@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Quotes I Like
 permalink: /Quotes_I_Like
 ---
 
