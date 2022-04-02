@@ -13,8 +13,13 @@
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
 
-<meta property="og:image" content="https://www.henryvanwagenberg.com/assets/images/henry_drawing_closeup.jpg">
-<meta property="og:image:height" content="630" />
+{% if page.image %}
+  <meta property="og:image" content="{{page.image}}" />
+{% else %}
+  <meta property="og:image" content="https://www.henryvanwagenberg.com/assets/images/henry_drawing_closeup.jpg">
+  <meta property="og:image:height" content="630" />
+{% endif %}
+
 
 <!-- Google Analytics - Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P0J19VDJC4"></script>
