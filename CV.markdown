@@ -84,8 +84,8 @@ permalink: "CV"
   <div class="row g-0">
     <div class="col-md-7 ">
       <div class="card-body">
-        <h5 class="card-title">Manager, Gordon Ramsay-Featured Cafe Hon Restaurant, Baltimore</h5> 
-        <p class="card-text">Managed restaurant, waited tables, ran food, washed dishes, barbacked and bartended at WCafe Hon", featured at the time in Gordon Ramsay's <i>Kitchen Nightmares</i></p>
+        <h5 class="card-title">Manager, Gordon Ramsay-Featured Restaurant, Baltimore</h5>
+        <p class="card-text">Managed restaurant, waited tables, ran food, washed dishes, barbacked and bartended at Baltimore's famous "Cafe Hon" restaurant, featured at the time in Gordon Ramsay's <i>Kitchen Nightmares</i></p>
         <p class="card-text position-absolute top-0 end-0 mb-2 me-3"><small class="text-right">2009-2010</small> </p>
 	<p>&nbsp;</p>
       </div>
