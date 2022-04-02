@@ -23,11 +23,6 @@ email: writing@henryvanwagenberg.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm an entrepreneur in Berlin. Learn about my projects, including Baugarten, the world-building computer game that teaches algebra.
 image: /images/henry_drawing_closeup.jpg
-defaults:
-  - scope:
-    path: ""
-    values: 
-      image: /images/henry_drawing_closeup.jpg
 
 baseurl: "" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog

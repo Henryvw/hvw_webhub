@@ -1,5 +1,6 @@
 ---
 layout: "page"
+image: assets/images/music.jpg
 ---
 <div class="container">
 <div class="row align-items-start">
