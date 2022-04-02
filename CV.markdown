@@ -26,7 +26,7 @@ permalink: "CV"
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Freelance Programmer</h5>
+        <h5 class="card-title">Freelance Software Engineer</h5>
         <p class="card-text">Developed software freelance using Ruby on Rails for a number of Berlin's largest startups, including Helpling, FinLeap and Movinga.</p>
         <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-right">2017-2021</small></p>
       </div>
