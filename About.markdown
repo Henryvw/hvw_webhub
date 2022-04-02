@@ -21,7 +21,7 @@ permalink: /About
 			</p>
 
 			<p>
-				You can read <a href="../curriculum vitae.html">here about my past work experiences</a>. I’ve harvested broccoli in Denmark, interned for the Taiwanese government, sailed as a tall-ship deckhand from Hawaii to California, interned at the White House, worked in sales in New York, studied ancient philosophy for a year alone in a cottage, managed a restaurant, sold my first startup, managed a Philippines tech team while living on their island, Leyte, and freelanced as a programmer for many of Berlin’s largest startups.
+				You can read <a href="../cv">here about my past work experiences</a>. I’ve harvested broccoli in Denmark, interned for the Taiwanese government, sailed as a tall-ship deckhand from Hawaii to California, interned at the White House, worked in sales in New York, studied ancient philosophy for a year alone in a cottage, managed a restaurant, sold my first startup, managed a Philippines tech team while living on their island, Leyte, and freelanced as a programmer for many of Berlin’s largest startups.
 			</p>
 			<p>
 			I’ve studied Mandarin Chinese at Middlebury College, business at Universität Würzburg and Liberal Arts -- majoring in English and minoring in Economics -- at Davidson College. I'm fluent in spoken and written German. I hold dual United States and EU (Italian) citizenship.
