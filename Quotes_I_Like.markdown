@@ -3,7 +3,7 @@ layout: default
 permalink: /Quotes_I_Like
 ---
 
-<div class="card mb-3 bg-indigo text-white" style="max-width: 1200px;">
+<div class="card mb-3 bg-white" style="max-width: 1200px;">
   <div class="row g-0">
     <div class="col-md-9 ">
       <div class="card-body">
@@ -19,7 +19,23 @@ permalink: /Quotes_I_Like
   </div>
 </div>
 
-<div class="card mb-3 bg-primary text-white" style="max-width: 1200px;">
+<div class="card mb-3 bg-white" style="max-width: 1200px;">
+  <div class="row g-0">
+    <div class="col-md-9 ">
+      <div class="card-body">
+        <h5 class="card-text">“In dem Augenblick, in dem man sich endgültig einer Aufgabe verschreibt, bewegt sich die Vorsehung auch. Alle möglichen Dinge, die sonst nie geschehen wären, geschehen, um einem zu helfen. Ein ganzer Strom von Ereignissen wird in Gang gesetzt durch die Entscheidung, und er sorgt zu den eigenen Gunsten für zahlreiche unvorhergesehene Zufälle, Begegnungen und materielle Hilfen, die sich kein Mensch vorher je so erträumt haben könnte. Was immer Du kannst, beginne es. Kühnheit trägt Genius, Macht und Magie.”</h5>
+      </div>
+      <div class="card-footer">
+        Goethe
+      </div>
+    </div>
+    <div class="col-md-3 d-flex align-items-center">
+      <img src="/assets/images/humboldt.jpg" class="img-fluid rounded-start" alt="...">
+    </div>
+  </div>
+</div>
+
+ <div class="card mb-3 bg-white" style="max-width: 1200px;">
   <div class="row g-0">
     <div class="col-md-9 ">
       <div class="card-body">
@@ -35,33 +51,24 @@ permalink: /Quotes_I_Like
   </div>
 </div>
 
-<div class="card mb-3 bg-danger text-white" style="max-width: 1200px;">
+  <hr>
+
+ <div class="card mb-3 bg-black text-white" style="max-width: 1200px;">
   <div class="row g-0">
     <div class="col-md-9 ">
       <div class="card-body">
-        <h5 class="card-text">"“In dem Augenblick, in dem man sich endgültig einer Aufgabe verschreibt, bewegt sich die Vorsehung auch. Alle möglichen Dinge, die sonst nie geschehen wären, geschehen, um einem zu helfen. Ein ganzer Strom von Ereignissen wird in Gang gesetzt durch die Entscheidung, und er sorgt zu den eigenen Gunsten für zahlreiche unvorhergesehene Zufälle, Begegnungen und materielle Hilfen, die sich kein Mensch vorher je so erträumt haben könnte. Was immer Du kannst, beginne es. Kühnheit trägt Genius, Macht und Magie.”</h5>
+        <h5 class="card-text">"There are certain queer times and occasions in this stranger mixed affair we call life when a man takes this whole universe for a vast practical joke, though the wit thereof he but dimply discerns, and more than suspects that the joke is at nobody’s expense but his own... And, as for small difficulties and worryings, prospects of sudden disaster, peril of life and limb, all these, and death itself, seem to him only sly, good-natured hits, and jolly punches in the side bestowed by the unseen and unaccountable old joker.That odd sort of wayward mood I am speaking of comes over a man only in some time of extreme tribulation; it comes in the very midst of his earnestness; so that what just before might have seemed to him a thing most momentous, now seems but a part of the general joke. There is nothing like the perils of whaling to breed this free and easy sort of genial, desperado philosophy; and with it I now regarded this whole voyage of the <i>Pequod</i>, and the great White Whale its object."</h5>
       </div>
       <div class="card-footer">
-        Goethe
+        Herman Melville <cite title="Moby Dick"><i>Moby Dick.</i> Chapter 49, 'The Hyena'"</cite>
       </div>
     </div>
     <div class="col-md-3 d-flex align-items-center">
-      <img src="/assets/images/humboldt.jpg" class="img-fluid rounded-start" alt="...">
+      <img src="/assets/images/ship.jpg" class="img-fluid rounded-start" alt="...">
     </div>
   </div>
 </div>
 
-
-
-
-
-
-  <hr>
-
-![ship](/assets/images/ship.jpg)
-"There are certain queer times and occasions in this stranger mixed affair we call life when a man takes this whole universe for a vast practical joke, though the wit thereof he but dimply discerns, and more than suspects that the joke is at nobody’s expense but his own... And, as for small difficulties and worryings, prospects of sudden disaster, peril of life and limb, all these, and death itself, seem to him only sly, good-natured hits, and jolly punches in the side bestowed by the unseen and unaccountable old joker.That odd sort of wayward mood I am speaking of comes over a man only in some time of extreme tribulation; it comes in the very midst of his earnestness; so that what just before might have seemed to him a thing most momentous, now seems but a part of the general joke. There is nothing like the perils of whaling to breed this free and easy sort of genial, desperado philosophy; and with it I now regarded this whole voyage of the _Pequod_, and the great White Whale its object."
-
-— Herman Melville, _Moby-Dick_
 
 <hr>
 
@@ -110,119 +117,172 @@ und der Cherub steht vor Gott."
 
 <hr>
 
-![roots](/assets/images/roots.jpg){:width="50%"}
-
-"Denn alle Kraft dringt vorwärts in die Weite,
-Zu leben und zu wirken hier und dort;
-Dagegen engt und hemmt von jeder Seite
-Der Strom der Welt und reisst uns mit sich fort:
-In diesem innern Sturm und äussern Streite
-Vernimmt der Geist ein schwer verstanden Wort:
-Von der Gewalt, die alle Wesen bindet,
-Befreit der Mensch sich, der sich überwindet."	
-— Goethe, "Die Geheimnisse"
-
-<hr>
-
-"Trust is the coin of the realm. When trust was in the room, whatever room that was -- the family room, the schoolroom, the locker room, the office room, the government room or the military room -- good things happened. When trust was not in the room, good things did not happen. Everything else is details."
+<div class="card mb-3 bg-success text-white" style="max-width: 1200px;">
+  <div class="row g-0">
+    <div class="col-md-9 ">
+      <div class="card-body">
+        <h5 class="card-text">"Denn alle Kraft dringt vorwärts in die Weite,<br>
+Zu leben und zu wirken hier und dort;<br> 
+Dagegen engt und hemmt von jeder Seite<br> 
+Der Strom der Welt und reisst uns mit sich fort:<br> 
+In diesem innern Sturm und äussern Streite<br> 
+Vernimmt der Geist ein schwer verstanden Wort:<br> 
+Von der Gewalt, die alle Wesen bindet,<br> 
+Befreit der Mensch sich, der sich überwindet."<br>
+</h5> 
+      </div>
+      <div class="card-footer">
+        — Goethe, "Die Geheimnisse"
+      </div>
+    </div>
+    <div class="col-md-3 d-flex align-items-center">
+      <img src="/assets/images/roots.jpg" class="img-fluid rounded-start" alt="...">
+    </div>
+  </div><hr>
+</div>
+ "Trust is the coin of the realm. When trust was in the room, whatever room that was -- the family room, the schoolroom, the locker room, the office room, the government room or the military room -- good things happened. When trust was not in the room, good things did not happen. Everything else is details."
+<br>
+<br>
 — George Shultz
 
 <hr>
 
 "The oak sleeps in the acorn, the bird waits in the egg, and in the highest vision of the soul a waking angel stirs.
 
-Dreams are the seedlings of realities."	
+"Dreams are the seedlings of realities."
+<br>
+<br>
 — James Allen
 
 <hr>
 
 "Writing is the antidote to confusion."
+<br>
+<br>
 — James Clear
 
 <hr>
 
-"Working on a problem reduces the fear of it.
+There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.	
+<br>
+<br>
+— Charles Darwin, Origin of Species, Conclusion
 
-It’s hard to fear a problem when you are making progress on it—even if progress is imperfect and slow.
+<hr>
 
-Action relieves anxiety."	James Clear
+Mental toughness is persistence not intensity.	
+<br>
+<br>
+— James Clear
 
+<hr>
 
+He who jumps into the void owes no explanation to those who stand and watch.	
+<br>
+<br>
+— Jean-Luc Godard
 
-There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.	Charles Darwin, Origin of Species, Conclusion
-
-
-Seine Affekte, sein Für und Wider willkürlich haben und nicht haben, sich auf sie herablassen, für Stunden; sich auf sie setzen, wie auf Pferde, oft wie auf Esel: -- man muss nämlich ihre Dummheit so gut wie ihr Feuer zu nützen wissen."	Friedrich Nietzsche, Jenseits Gut und Böse
-
-Mental toughness is persistence not intensity.	James Clear
-
-
-Concentrate all your thoughts upon the work at hand. The sun’s rays do not burn until brought to a focus.	Alexander Graham Bell
-
-
-He who jumps into the void owes no explanation to those who stand and watch.	Jean-Luc Godard
-
+<hr>
 
 "Your 1st blog post will be bad, but your 1000th will be great.
-
 Your 1st workout will be weak, but your 1000th will be strong.
-
 Your 1st meditation will be scattered, but your 1000th will be focused.
+Put in your reps."	
+<br>
+<br>
+— James Clear
 
-Put in your reps."	James Clear
-
-
+<hr>
 
 "When making plans, think big.
+When making progress, think small."	
+<br>
+<br>
+— James Clear
 
-When making progress, think small."	James Clear
-
-
-
-If you have good habits, time becomes your ally. All you need is patience.	James Clear
-
-
+<hr>
 
 "As I’ve gotten older—I would say starting in my mid-to-late 20s—I could not help but notice the effect on people of the stories they told about themselves. If you listen to people, if you just sit and listen, you’ll find that there are patterns in the way they talk about themselves.
 
 There’s the kind of person who is always the victim in any story that they tell. Always on the receiving end of some injustice. There's the person who’s always kind of the hero of every story they tell. There's the smart person; they delivered the clever put down there.
 
-There are lots of versions of this, and you’ve got to be very careful about how you tell these stories because it starts to become you. You are—in the way you craft your narrative—kind of crafting your character. And so I did at some point decide, “I am going to adopt self-consciously as my narrative, that I’m the happiest person anybody knows.” And it is amazing how happy-inducing it is."	Michael Lewis
+There are lots of versions of this, and you’ve got to be very careful about how you tell these stories because it starts to become you. You are—in the way you craft your narrative—kind of crafting your character. And so I did at some point decide, “I am going to adopt self-consciously as my narrative, that I’m the happiest person anybody knows.” And it is amazing how happy-inducing it is."	
+<br>
+<br>
+— Michael Lewis
 
+<hr>
 
-Fforsan et haec olim meminisse iuvabit. (Someday you will look back even on this and laugh).	Virgil
+Fforsan et haec olim meminisse iuvabit. 
+<br>
+<br>
+(Someday you will look back even on this and laugh).	
+<br>
+<br>
+— Virgil
 
+<hr>
 
-Love is not consolation. It is light.	Friedrich Nietzsche 
+Love is not consolation. It is light.	
+<br>
+<br>
+— Friedrich Nietzsche 
 
+<hr>
 
-Verbrennen mußt du dich wollen in deiner eignen Flamme: wie wolltest du neu werden, wenn du nicht erst Asche geworden bist!	Friedrich Nietzsche, ASZ, Vom Wege des Schaffenden
+Verbrennen mußt du dich wollen in deiner eignen Flamme: wie wolltest du neu werden, wenn du nicht erst Asche geworden bist!	
+<br>
+<br>
+— Friedrich Nietzsche, ASZ, Vom Wege des Schaffenden
+<hr>
 
+Wenn du dein hier und jetzt unerträglich findest und es dich unglücklich macht, dann gibt es drei Möglichkeiten: Verlasse die Situation, verändere sie oder akzeptiere sie ganz. Wenn du Verantwortung für dein Leben übernehmen willst, dann musst du eine dieser drei Möglichkeiten wählen, und du musst die Wahl jetzt treffen.	
+<br>
+<br>
+— Eckhart Tolle, Die Kraft der Gegenwart
+<hr>
 
+A value is something that you give your time, energy and your resources to. If it's not a value that you want to chase, or that's good for you, but you're still giving all your time and energy and resources to it --- Yes, you are valuing it. You are giving away your most valuable assets to it.	
+<br>
+<br>
+— Dr. Isaiah Hankel
 
-Wenn du dein hier und jetzt unerträglich findest und es dich unglücklich macht, dann gibt es drei Möglichkeiten: Verlasse die Situation, verändere sie oder akzeptiere sie ganz. Wenn du Verantwortung für dein Leben übernehmen willst, dann musst du eine dieser drei Möglichkeiten wählen, und du musst die Wahl jetzt treffen.	Eckhart Tolle, Die Kraft der Gegenwart
+<hr>
 
+That which you most need will be found where you least want to look.	
+<br>
+<br>
+— Carl Jung
 
+<hr>
 
-A value is something that you give your time, energy and your resources to. If it's not a value that you want to chase, or that's good for you, but you're still giving all your time and energy and resources to it --- Yes, you are valuing it. You are giving away your most valuable assets to it.	Dr. Isaiah Hankel
+In a moment the ashes are made, but a forest is a long time growing.
 
+I will storm the gods, and shake the universe.
 
+A gem cannot be polished without friction, nor a man perfected without trials.
 
-That which you most need will be found where you least want to look.	Carl Jung
+There is no easy way from the earth to the stars.
 
+It is a rough road that leads to the heights of greatness.
 
-In a moment the ashes are made, but a forest is a long time growing.	Seneca
-I will storm the gods, and shake the universe	Seneca
-A gem cannot be polished without friction, nor a man perfected without trials	Seneca
-There is no easy way from the earth to the stars.	Seneca
-It is a rough road that leads to the heights of greatness.	Seneca
-He who is brave is free.	Seneca
-No man was ever wise by chance.	Seneca
-There is no genius without a touch of madness.	Seneca
-The fool, with all his other faults, has this also, he is always getting ready to live.	Seneca
+He who is brave is free.
 
+No man was ever wise by chance.
 
-Energy follows thought.	David Allen
+There is no genius without a touch of madness.
+
+The fool, with all his other faults, has this also, he is always getting ready to live.
+<br>
+<br>
+— Lucius Annaeus Seneca
+
+<hr>
+
+Energy follows thought.	
+
+— David Allen
+<hr>
 
 "So gerät jeder geistige, jeder schöpferische Mensch unverweigerlich in den
 Kampf mit seinem Dämon, und immer ist es ein Heldenkampf, immer ein
@@ -242,11 +302,19 @@ aufschießender Steigerung auch ein besonderer Typus der Kunst: Rauschkunst,
 exaltiertes, fieberhaftes Schaffen, spasmische, überwallende Aufschwünge
 des Geistes, Krampf und Explosion, Orgiasmus und Trunkenheit, die μανια der
 Griechen, die heilige Raserei, die sonst nur dem Prophetischen, dem
-Pythischen innewohnt."	Stefan Zweig, Kämpf mit dem Dämon: Hölderlin, Kleist, Nietzsche
+Pythischen innewohnt."
+<br>
+<br>
+— Stefan Zweig, _Kämpf mit dem Dämon: Hölderlin, Kleist, Nietzsche_
 
+<hr>
 
-Wir aber wollen die Dichter unseres Lebens sein, und im Kleinsten und Alltäglichsten zuerst.	Friedrich Nietzsche, Fröhliche Wissenschaft
+Wir aber wollen die Dichter unseres Lebens sein, und im Kleinsten und Alltäglichsten zuerst.	
+<br>
+<br>
+Friedrich Nietzsche, _Fröhliche Wissenschaft_
 
+<hr>
 
 "Time (aeon) is a child at play." (DK 52)	Heraklitus
 
