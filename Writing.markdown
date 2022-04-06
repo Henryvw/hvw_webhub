@@ -3,27 +3,12 @@ layout: "page"
 title: "Writing"
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
 <!---
   {{ content }}
 -->
 
-<h3><a Essays</h3>
-
-<ul>
-  {% for post in site.categories.essays %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> <ul class="post-list"> {%- for post in site.posts -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Essays" }}</h2> <ul class="post-list"> {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -39,10 +24,8 @@ title: "Writing"
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
-</div>
 
 
 <!-- Begin Mailchimp Signup Form -->
@@ -55,10 +38,11 @@ title: "Writing"
 <div id="mc_embed_signup">
 <form action="https://henryvanwagenberg.us14.list-manage.com/subscribe/post?u=79ce4ed6d9d34830a8d9a4f2a&amp;id=903d98d20e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to My Writing</h2>
+	<h2>Get My Writing Delivered to You</h2>
+	<p><i>Receive email updates about my essays and other writings here</i></p>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+	<label for="mce-EMAIL">Your Email<span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
