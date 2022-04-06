@@ -5,12 +5,11 @@ categories: essays poems stories
 permalink: essays/artist_and_community
 tags: philosophy entrepreneurship 
 ---
-[comment]: <> (Note for future essays and blog posts, you must add markdown="1" in order for HTML to parse your markdown text. This is particularly relevant for using HTML / Bootstrap columns. Markdown has no columns. There are also other options for including markdown: https://stackoverflow.com/questions/22291211/jekyll-how-to-get-markdown-parsing-inside-blocks-using-kramdown)
 
-<div class="container">
-	<div class="row">
-		<div class="col-5" markdown="1">
 Nietzsche calls Christianity Platonism for the masses. I watched a mass in Italy a few weeks ago. Mass, it struck me, is a _Gesamtkunstwerk_. It's costume, theater, music, incense, food, therapy, rhetoric, painting, sculpture, and architecture. The _Gesamtkunstwerk_ of mass is the operation of humanity's diverse creative powers to bring the Christian god to life. That's what Nietzsche means when he writes that God is dead and we have killed him: God _was_ alive. All our creative arts brought Him to life and made Him powerful in our lives. We modeled ourselves after the saints we saw in our paintings and our cathedrals, sang and chanted about in our music and heard about from our priests' sermons.
+
+![image](/assets/images/essays/worthalle.jpg){: .align-right style="width: 500px"}
+
 
 Nietzsche exposes the extraordinary creative potential of the Platonic Forms (what you might also simply call the power of abstraction) and the artist’s role in remixing them. All art is like Vanilla Ice's "Ice Ice Baby" resampling of the bass line to David Bowie's "Under Pressure". All art is a remix of past works, and the same is true for ways to be human. Early Christians remixed Judaism and Platonism. Nietzsche shines a light on the fact that all of us have this artistic capacity. We can fashion ourselves like Bonsai trees. In the 19th and 20th centuries the Humanities taught this artistic power. A Humanities education was like entering a botanical garden. All the wildy diverse ways of growing into a human being burst into view, fighting against each other for sunlight. They were there for you to take inspiration from in fashioning yourself. You could become the gardener of your own abstractions. You could become the poet and artist of your own life.
 
@@ -26,18 +25,8 @@ There’s an account from a ship captain who visited Hawaii twenty years after C
 
 While creative expression is power, so is making an emperor kiss your feet. St. Ambrose’s win against Theodosius also made the Christian god powerful. Even today, the pope must meet with presidents. Only a Platonic Form that’s powerful can be true. 
 
-</div>
-		<div class="col-5" markdown="1">
-
-<img border="1.5" src="/assets/images/essays/worthalle.jpg"/>
-
-
 It is therefore no accident that the patron saints of born-again Paganism, Spinoza and Nietzsche, are loners. They inspire individual artists to become supermen, just as to their communities they are kryptonite. There are no Spinoazan cathedrals. They are artist-rebels, dynamiters, Form-breakers, community-busters. It is in this sense that Carl Schmitt’s dictum is true. He who can make an exception, is sovereign. The artist’s sovereignty is an eternal threat to the community. It is no accident that Plato's Socrates reminds us of "an old quarrel between philosophy and poetry" (_Republic_ 607b5-6). The poet - the artist - is a threat to Plato's imaginary ordered communal project. This is why Plato bans poetry and poets from the ideal city. Every time a community fails to discipline according to its Form, it weakens. A community allowing "free radicals" is like an alka-seltzer tablet in a glass of water. Dissolution is only a matter of time.
 
 Liberalism has been so powerful because it’s loose Forms unleashed great untapped potential in artists (including, say, entrepreneurs) straight-jacketed by earlier Forms. At the same time, 100,000 opioid deaths are the tip of an iceberg of loneliness in modernity's ocean of dissipated communities. Our sharply individual state would have struck earlier human tribes and communities as unnatural and bizarre. The social molecules that once linked — and chained —people together are damaged or missing. What if all modernity’s peculiar psychoses, both individual and mass, flow from this state? This is the sense in which nihilism is still a problem. Our civilization — indeed, all human tribes, no matter how small — developed to include key Forms that gave us, Aristotle’s social animal, community.
 
 How can we cultivate Forms that give people both freedom and community?
-
-</div>
-</div>
-</div>

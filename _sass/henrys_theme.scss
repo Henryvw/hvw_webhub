@@ -17,6 +17,27 @@ $black: #3a3335 !default; //coffee black
 @import "bootstrap/bootstrap";
 
 
+.align-right, img.align-right {
+margin-bottom: 1rem;
+margin-left: 1rem;
+float: right;
+width: 500px;
+}
+
+.align-left, img.align-left {
+margin-bottom: 1rem;
+margin-left: 1rem;
+float: left;
+width: 500px;
+}
+
+.align-center, img.align-center {
+margin-bottom: 1rem;
+margin-left: 1rem;
+float: center;
+width: 500px;
+}
+
 .bg-black {
   background-color: $black;
 }
