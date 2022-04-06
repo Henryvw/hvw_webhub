@@ -10,7 +10,7 @@ My Sketches
 
 ![winds_of_free_discussion](assets/images/drawing/winds_of_free_discussion.png)
 
-![2020-21](assets/images/drawing/2020-21.jpg)
+![2020-21](assets/images/drawing/2020_21.jpg)
 
 ![birthday](assets/images/drawing/bday.png)
 

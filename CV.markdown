@@ -26,7 +26,7 @@ permalink: "CV"
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Freelance Software Engineer</h5>
+        <h5 class="card-title">Freelance Software Developer</h5>
         <p class="card-text">Developed software freelance using Ruby on Rails for a number of Berlin's largest startups, including Helpling, FinLeap and Movinga.</p>
         <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-right">2017-2021</small></p>
       </div>
@@ -51,7 +51,7 @@ permalink: "CV"
   <div class="row g-0">
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Jr Ruby on Rails Software Engineer, Blacklane GmbH, Berlin, Germany</h5>
+        <h5 class="card-title">Software Developer, Blacklane GmbH, Berlin, Germany</h5>
         <p class="card-text">Solved tickets on client-facing core Rails application. Built user features and wrote rake scripts tov interact with our Contentful API. "Firefighter" once a month to solve crucial bugs. Participated in Agile / Scrum team and organised team offsite BBQ to reflect on our challenges as a team.</p>
         <p class="card-text">Blacklane is a Daimler-backed transportation startup similar to Uber, focusing on chaffeur services.</p>  
 

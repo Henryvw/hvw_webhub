@@ -3,6 +3,22 @@ layout: default
 permalink: /Quotes_I_Like
 ---
 
+ <div class="card mb-3 bg-white" style="max-width: 1200px;">
+  <div class="row g-0">
+    <div class="col-md-9 ">
+      <div class="card-body">
+        <h5 class="card-text">"There are certain queer times and occasions in this stranger mixed affair we call life when a man takes this whole universe for a vast practical joke, though the wit thereof he but dimply discerns, and more than suspects that the joke is at nobody’s expense but his own... And, as for small difficulties and worryings, prospects of sudden disaster, peril of life and limb, all these, and death itself, seem to him only sly, good-natured hits, and jolly punches in the side bestowed by the unseen and unaccountable old joker.That odd sort of wayward mood I am speaking of comes over a man only in some time of extreme tribulation; it comes in the very midst of his earnestness; so that what just before might have seemed to him a thing most momentous, now seems but a part of the general joke. There is nothing like the perils of whaling to breed this free and easy sort of genial, desperado philosophy; and with it I now regarded this whole voyage of the <i>Pequod</i>, and the great White Whale its object."</h5>
+      </div>
+      <div class="card-footer">
+        Herman Melville <cite title="Moby Dick"><i>Moby Dick.</i> Chapter 49, 'The Hyena'"</cite>
+      </div>
+    </div>
+    <div class="col-md-3 d-flex align-items-center">
+      <img src="/assets/images/ship.jpg" class="img-fluid rounded-start" alt="...">
+    </div>
+  </div>
+</div>
+
 <div class="card mb-3 bg-white" style="max-width: 1200px;">
   <div class="row g-0">
     <div class="col-md-9 ">
@@ -53,21 +69,6 @@ permalink: /Quotes_I_Like
 
   <hr>
 
- <div class="card mb-3 bg-black text-white" style="max-width: 1200px;">
-  <div class="row g-0">
-    <div class="col-md-9 ">
-      <div class="card-body">
-        <h5 class="card-text">"There are certain queer times and occasions in this stranger mixed affair we call life when a man takes this whole universe for a vast practical joke, though the wit thereof he but dimply discerns, and more than suspects that the joke is at nobody’s expense but his own... And, as for small difficulties and worryings, prospects of sudden disaster, peril of life and limb, all these, and death itself, seem to him only sly, good-natured hits, and jolly punches in the side bestowed by the unseen and unaccountable old joker.That odd sort of wayward mood I am speaking of comes over a man only in some time of extreme tribulation; it comes in the very midst of his earnestness; so that what just before might have seemed to him a thing most momentous, now seems but a part of the general joke. There is nothing like the perils of whaling to breed this free and easy sort of genial, desperado philosophy; and with it I now regarded this whole voyage of the <i>Pequod</i>, and the great White Whale its object."</h5>
-      </div>
-      <div class="card-footer">
-        Herman Melville <cite title="Moby Dick"><i>Moby Dick.</i> Chapter 49, 'The Hyena'"</cite>
-      </div>
-    </div>
-    <div class="col-md-3 d-flex align-items-center">
-      <img src="/assets/images/ship.jpg" class="img-fluid rounded-start" alt="...">
-    </div>
-  </div>
-</div>
 
 
 <hr>
@@ -86,7 +87,7 @@ permalink: /Quotes_I_Like
 
 "The rules don’t break me. I break the rules."
 
-— Lisa Kaufmann
+— DJ Kaufmann
 
 <hr>
 

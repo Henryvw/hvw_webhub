@@ -27,7 +27,18 @@ title: "Writing"
   {%- endif -%}
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -38,7 +49,7 @@ title: "Writing"
 <div id="mc_embed_signup">
 <form action="https://henryvanwagenberg.us14.list-manage.com/subscribe/post?u=79ce4ed6d9d34830a8d9a4f2a&amp;id=903d98d20e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Get My Writing Delivered to You</h2>
+	<h5>Get My Writing Delivered to You</h5>
 	<p><i>Receive email updates about my essays and other writings here</i></p>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
