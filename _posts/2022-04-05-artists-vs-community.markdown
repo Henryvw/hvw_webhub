@@ -6,18 +6,6 @@ permalink: essays/artist_and_community
 tags: philosophy entrepreneurship 
 ---
 
-OK Henry, what are you trying to say here? 
-
-Break into sections.
-
-First off, who is my audience? Elliott Turley.
-1. Central question: How could we advance society to have something that gives individuals power to be the artists of their own lives, and still have strong communities that can form powerful groups with direction and purpose, full of meaning and passion?
-
-Write with VIM and VIGOUR. PASSION. FORCE. ELOQUENCE. ENERGY. Do not OVERTHINK. Read On the Road beforehand. Beat poetry. Beat poetry meats Nietzsche. Meets philosophy.   
-
-Those first cave paintings in France, from 40,000 years ago. An artist. 
-
-There is always  
 ![image](/assets/images/essays/worthalle.jpg){: .align-right style="width: 500px"}
 
 Nietzsche calls Christianity Platonism for the masses. I watched a mass in Italy a few weeks ago. Mass, it struck me, is a _Gesamtkunstwerk_. It's costume, theater, music, incense, food, therapy, rhetoric, painting, sculpture, and architecture. The _Gesamtkunstwerk_ of mass is the operation of humanity's diverse creative powers to bring the Christian god to life. That's what Nietzsche means when he writes that God is dead and we have killed him: God _was_ alive. All our creative arts brought Him to life and made Him powerful in our lives. We modeled ourselves after the saints we saw in our paintings and our cathedrals, sang and chanted about in our music and heard about from our priests' sermons.
@@ -27,9 +15,6 @@ Nietzsche calls Christianity Platonism for the masses. I watched a mass in Italy
 Nietzsche exposes the extraordinary creative potential of the Platonic Forms (what you might also simply call the power of abstraction) and the artist’s role in remixing them. All art is like Vanilla Ice's "Ice Ice Baby" resampling of the bass line to David Bowie's "Under Pressure". All art is a remix of past works, and the same is true for ways to be human. Early Christians remixed Judaism and Platonism. Nietzsche shines a light on the fact that all of us have this artistic capacity. We can fashion ourselves like Bonsai trees. In the 19th and 20th centuries the Humanities taught this artistic power. A Humanities education was like entering a botanical garden. All the wildy diverse ways of growing into a human being burst into view, fighting against each other for sunlight. They were there for you to take inspiration from in fashioning yourself. You could become the gardener of your own abstractions. You could become the poet and artist of your own life.
 
 ##### Either the Artist Breaks the Tribe, Or the Tribe Breaks the Artist
-Plato 
-This individual artistic freedom dynamites all human community. It is the epic clash of our age. How do you reconcile between community and this postmodern artistic freedom?
-
 There is a problem with this individual artistic freedom. As Aristotle observed, human beings are the social animal. Anyone who lives outside the city (_polis_) is either a beast or a god. We crave social life. For the ancient Greeks, to be exiled from your _polis_ was a fate worse than death. To be cast out of your tribe in more ancient times often <a href="https://nowheremag.com/2015/04/growing-old-with-the-inuit-3/">meant death in the snow, forest or jungle alone</a>. Scientists back up Aristostle. They've discovered evidence that most of our brain is structured around social life. Practically all the advancements of civilization rely on social cooperation.
 
 The Jungian archetype of the Shaman, physically weak but spiritually potent, is the creator of the tribe’s social abstraction. He fashions the Tribe, celebrates it through mystic rites and magic arts. He is Prospero. And like Prospero, he also polices the borders. His tribalism, identity politics, and even religious wars and crusades are necessary to police the borders of the social abstraction of his tribe. Charles V knows exactly what he is doing. The leader of the Amsterdam Jewish community knows exactly what he's doing to Spinoza. The Taliban clerics know it, too. Policing his culture, each of these shaman-Prosperos draws a line in the sand. That line is the shape of the social abstraction, the Platonic Form that defines their tribe. If Catholicism, Judaism or Islam's _Gesamtkunstwerke_ fail to persuade someone to join the respective social Form, then the social Form must discipline/punish/excise him. The form’s power — the form’s life, the form's truth — depends upon it. 
