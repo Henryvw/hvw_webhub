@@ -9,7 +9,7 @@ permalink: "CV"
       <div class="card-body">
         <h5 class="card-title">Founder, Baugarten: The World-Building Computer Game for Algebra</h5>
         <p class="card-text">Founded and created a first prototype for a world-building computer game that teaches algebra and geometry. Baugarten’s central question is, how do we link kids’ natural curiosity to the intrinsic excitement of learning algebra and geometry? How do we turn math education into an experience discovering the power of formulas to shape the world around you? <a href="http://baugarten.app">Read more </a></p>
-        <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-right">2022-Present</small></p>
+        <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-right">2021-Present</small></p>
       </div>
     </div>
     <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674874714?h=f6cd7ffc3f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Baugarten: The World-Building Game That Teaches Algebra"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>

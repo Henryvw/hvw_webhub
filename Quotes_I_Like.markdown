@@ -1,7 +1,21 @@
 ---
-layout: default
+layout: page
 permalink: /Quotes_I_Like
 ---
+## Quotes I Like
+"The generous and bold have the best lives."  
+
+— Poetic Edda, Ancient Norse Manuscript from Iceland
+<hr>
+
+"New Beginnings are often disguised as painful endings."  
+
+— Laozi
+<hr>
+
+"Love is a snowmobile racing across the tundra. Then suddenly it flips you over, pinning you underneath. At night, the ice weasels come."
+
+— Matt Groening, Creator of _The Simpsons_
 
  <div class="card mb-3 bg-white" style="max-width: 1200px;">
   <div class="row g-0">
@@ -22,6 +36,22 @@ permalink: /Quotes_I_Like
 <div class="card mb-3 bg-white" style="max-width: 1200px;">
   <div class="row g-0">
     <div class="col-md-9 ">
+    <div class="card-body">
+      <h5 class="card-text">"Man schließe das Auge, man öffne, man schärfe das Ohr, und von leisesten Hauch bis zum wildesten Geräusch, von einfachsten Klang bis zur höchsten Zusammenstimmung, von dem heftigsten leidenschaftlichen Schrei bis zum sanftesten Worte der Vernunft ist es nur die Natur, die spricht, ihr Dasein, ihre Kraft, ihr Leben und ihre Verhältnisse offenbart, so daß ein Blinder, dem das unendlich Sichtbare versagt hat, im Hörbaren ein unendlich Lebendiges fassen kann."</h5>
+      </div>	
+      <div class="card-footer">
+        Johann Wolfgang von Goethe <cite title="Naturwissenschaftliche Schriften. Zur Farbenlehre. Didaktischer Teil. Vorwort">Naturwissenschaftliche Schriften. Zur Farbenlehre. Didaktischer Teil. Vorwort</cite>
+      </div>
+    </div>
+    <div class="col-md-3 d-flex align-items-center">
+      <img src="/assets/images/humboldt.jpg" class="img-fluid rounded-start" alt="...">
+    </div>
+  </div>
+</div>
+
+<div class="card mb-3 bg-white" style="max-width: 1200px;">
+  <div class="row g-0">
+    <div class="col-md-9 ">
       <div class="card-body">
         <h5 class="card-text">"Wo große Liebe zu sich selber ist, da ist sie der Schwangerschaft Wahrzeichen. Noch grünen mir meine Kinder in ihrem ersten Frühlinge, nahe beinander stehend und gemeinsam von Winden geschüttelt, die Bäume meines Gartens und besten Erdreichs. Knorrig und gekrümmt und mit biegsamer Härte soll er mir dann am Meere dastehe, ein lebendiger Leuchtturm unbesiegbaren Lebens."</h5>
       </div>
@@ -35,23 +65,18 @@ permalink: /Quotes_I_Like
   </div>
 </div>
 
-<div class="card mb-3 bg-white" style="max-width: 1200px;">
-  <div class="row g-0">
-    <div class="col-md-9 ">
-      <div class="card-body">
-        <h5 class="card-text">“In dem Augenblick, in dem man sich endgültig einer Aufgabe verschreibt, bewegt sich die Vorsehung auch. Alle möglichen Dinge, die sonst nie geschehen wären, geschehen, um einem zu helfen. Ein ganzer Strom von Ereignissen wird in Gang gesetzt durch die Entscheidung, und er sorgt zu den eigenen Gunsten für zahlreiche unvorhergesehene Zufälle, Begegnungen und materielle Hilfen, die sich kein Mensch vorher je so erträumt haben könnte. Was immer Du kannst, beginne es. Kühnheit trägt Genius, Macht und Magie.”</h5>
-      </div>
-      <div class="card-footer">
-        Goethe
-      </div>
-    </div>
-    <div class="col-md-3 d-flex align-items-center">
-      <img src="/assets/images/humboldt.jpg" class="img-fluid rounded-start" alt="...">
-    </div>
-  </div>
-</div>
+"But the bravest are surely those who have the clearest vision."  
 
- <div class="card mb-3 bg-white" style="max-width: 1200px;">
+— Thucydides
+
+<hr>
+
+"The tigers of wrath are wiser than the horses of instruction."  
+
+— William Blake
+
+
+<div class="card mb-3 bg-white" style="max-width: 1200px;">
   <div class="row g-0">
     <div class="col-md-9 ">
       <div class="card-body">
@@ -67,9 +92,28 @@ permalink: /Quotes_I_Like
   </div>
 </div>
 
-  <hr>
+<hr>
 
+"**Worf**: [Blood-curdling roar].  That is how the Klingon lures a mate.  
+**Ensign Crusher**: Are you telling me I should go yell at her?  
+**Worf**: No, men do not roar.  Women roar.  Then they hurl heavy objects and claw at you.  
+**Ensign Crusher**: What does the man do?  
+**Worf**: He ducks a lot."  
 
+_Star Trek The Next Generation_
+
+<hr>
+
+*"On s’engage et puis on voit"*  
+"First get into a fight, and then figure out what to do."  
+
+— Napoleon Bonaparte
+
+<hr>
+
+"All poets and heroes are children of Aurora and emit their music at sunrise. Morning is when I have a dawn in me."  
+
+— Henry David Thoreau, _Walden_
 
 <hr>
 
@@ -118,7 +162,12 @@ und der Cherub steht vor Gott."
 
 <hr>
 
-<div class="card mb-3 bg-success text-white" style="max-width: 1200px;">
+"In dem Augenblick, in dem man sich endgültig einer Aufgabe verschreibt, bewegt sich die Vorsehung auch. Alle möglichen Dinge, die sonst nie geschehen wären, geschehen, um einem zu helfen. Ein ganzer Strom von Ereignissen wird in Gang gesetzt durch die Entscheidung, und er sorgt zu den eigenen Gunsten für zahlreiche unvorhergesehene Zufälle, Begegnungen und materielle Hilfen, die sich kein Mensch vorher je so erträumt haben könnte. Was immer Du kannst, beginne es. Kühnheit trägt Genius, Macht und Magie.”
+
+— Goethe
+<hr>
+
+<div class="card mb-3 bg-white" style="max-width: 1200px;">
   <div class="row g-0">
     <div class="col-md-9 ">
       <div class="card-body">
@@ -395,9 +444,10 @@ From a small seed a mighty trunk may grow.	Aeschlyus
 
 How frequently, in the course of our lives, the evil which in itself we seek most to shun, and which, when we are fallen into, is the most dreadful to us, is oftentimes the very means or door of our deliverance, by which alone we can be raised again from the affliction we are fallen into.  I could give many examples of this in the course of my unaccountable life; but in nothing was it more particularly remarkable than in the circumstances of my last years of solitary residence in this island.	Robinson Crusoe
 
-Man schließe das Auge, man öffne, man schärfe das Ohr, und von leisesten Hauch bis zum wildesten Geräusch, von einfachsten Klang bis zur höchsten Zusammenstimmung, von dem heftigsten leidenschaftlichen Schrei bis zum sanftesten Worte der Vernunft ist es nur die Natur, die spricht, ihr Dasein, ihre Kraft, ihr Leben und ihre Verhältnisse offenbart, so daß ein Blinder, dem das unendlich Sichtbare versagt hat, im Hörbaren ein unendlich Lebendiges fassen kann.	Johann Wolfgang von Goethe
 
-Look at the lilies. See how they grow. They neither toil nor spin.	Matthew 6:28, Quoted by Eckhart Tolle
+Look at the lilies. See how they grow. They neither toil nor spin.	
+
+- Matthew 6:28
 
 "The strawberry grows underneath the nettle
 And wholesome berries thrive and ripen best
@@ -427,8 +477,7 @@ The poetry of Earth is never dead.	John Keats
 
 In an information-rich world, the wealth of information means a dearth of something else: a scarcity of whatever it is that information consumes. What information consumes is rather obvious: it consumes the attention of its recipients. Hence, a wealth of information creates a poverty of attention.	Herbert Simon (Nobel Prize Winner)
 
-
-(EMBED: Cyrano de Bergerace youtube quote)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LOWLTRcg-qQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The master has failed more times than the beginner has even tried.	Stephen McCranie
 
@@ -501,17 +550,10 @@ When you have exhausted all possibilities, remember this: you haven't.	Thomas Ed
 The Obstacle Is The Way	Ancient Zen Saying - Within Every Obstacle is an Opportunity to improve your condition
 
 
-On s’engage et puis on voit - First get into a fight, and then decides what to do.	Napoleon
 
 
 In the dime stores and bus stations/ People talk of situations/ Read books, repeat quotations/ Draw conclusions on the wall/ Some speak of the future/ My love she speaks softly/ She knows there's no success like failure/ And that failure's no success at all	Bob Dylan
 
-
-"Worf: [Blood-curdling roar].  That is how the Klingon lures a mate.
-Ensign Crusher: Are you telling me I should go yell at her?
-Worf: No, men do not roar.  Women roar.  Then they hurl heavy objects and claw at you.
-Ensign Crusher: What does the man do?
-Worf: He ducks a lot."	Star Trek TNG
 
 Wenn man einen Stein ins Wasser wirft, so eilt er sich auf dem schnellsten Weg zum Grunde des Wassers. So ist es, wenn Siddhartha ein Ziel hat, einen Vorsatz hat. Siddharta tut nichts, er wartet, er denkt, er fastet, aber es geht durch die Dinge der Welt hindurch wie der Stein durchs Wasser, ohne etwas zu tun, ohne sich zu rühren: er wird gezogen, er läßt sich fallen. Sein Ziel zieht ihn an sich, denn er läßt nichts in seine Seele ein, was dem Ziel widerstreben könnte. Das ist es, was Siddharta bei den Samanas gelernt hat. Es ist was, was die Toren Zauber nennen und wovon sie meinen, es werde durch die Dämonen bewirkt. Nichts wird von den Dämonen bewirkt, es gibt keine Dämonen. Jeder kann zaubern, jeder kann seine Ziele erreichen, wenn er denken kann, wenn er warten kann, wenn er fasten kann.	– Siddhartha by Herman Hesse
 
@@ -541,8 +583,11 @@ Make no mistake, I always want to win, but I never fight with an opponent. My fi
 Be quick, but don't hurry.	John Wooden
 
 Festina Lente - Roman Saying
+<hr>
 
-People will forget what said, people will forget what you did, but they will always remember how you made them feel.	Maya Angelous / Dries van Wagenberg... with big PAUSE inetween "said... and did..." so that you're thinking, oh this is going to be about deeds... but then it's not
+People will forget what said, people will forget what you did, but they will always remember how you made them feel.  
+Maya Angelous / Dries van Wagenberg
+<hr>
 
 "I've already grown a goiter from this torture, 
 hunched up here like a cat in Lombardy
@@ -563,59 +608,78 @@ are crazy, perfidious tripe:
 anyone shoots badly through a crooked blowpipe.
 My painting is dead.
 Defend it for me, Giovanni, protect my honor. 
-I am not in the right place—I am not a painter."	"Michelangelo - Michelangelo: To Giovanni da Pistoia 
+I am not in the right place—I am not a painter."  
+
+— Michelangelo - Michelangelo: To Giovanni da Pistoia,
 "When the Author Was Painting the Vault of the Sistine Chapel"
-—1509"
+—1509
+<hr>
 
 The secret to creativity is knowing how to hide your sources.	Albert Einstein
+<hr>
 
 A good plan violently executed today is better than a perfect plan executed next week. 	Patton
+<hr>
 
 Amicus Plato, sed magis amica veritas	Aristotle + Isaac Newton intro to his Nova Principum
+<hr>
 
 Copy your heroes.	Austin Kleon
+<hr>
 
-The tigers of wrath are wiser than the horses of instruction	William Blake
-
-But the bravest are surely those who have the clearest vision.	Thucydides
 
 Wenn's etwas gibt, gewalt'ger als das Schicksal, So ist's der Mut, der's unerschuettert traegt.	-Emanuel Geibel (quoted in Kaufman edition opening to Nietzsche)
-
-It does not matter how slowly you go so long as you do not stop.	Confucius
+<hr>
 
 Study the past if you would define the future.	Confucius
+<hr>
 
 Ignorance is the night of the mind, but a night without moon and star.	Confucius
+<hr>
 
 "Before you embark on a journey of revenge, dig two graves."	Confucius
+<hr>
 
 A will set on love is free from evil.	Confucius
-
-The Greeks had a beautiful word for "vulgarity"; they called it apeirokalia, lack of experience in things beautiful. 	Leo Strauss
+<hr>
 
 Only passions, great passions, can elevate the soul to great things.	Denis Diderot
 
+<hr>
+
 Write with the heart, revise with the head. -Finding Forrester
+<hr>
+
 
 "   Scrooge was better than his word. He did it all, and infinitely more; and to Tiny Tim, who did not die, he was a second father. He became as good a friend, as good a master, and as good a man, as the good old city knew, or any other good old city, town, or borough, in the good old world. Some people laughed to see the alteration in him, but he let them laugh, and little heeded them; for he was wise enough to know that nothing ever happened on this globe, for good, at which some people did not have their fill of laughter in the outset; and knowing that such as these would be blind anyway, he thought it quite as well that they should wrinkle up their eyes in grins, as have the malady in less attractive forms. His own heart laughed: and that was quite enough for him.
 
    He had no further intercourse with Spirits, but lived upon the Total Abstinence Principle, ever afterwards; and it was always said of him, that he knew how to keep Christmas well, if any man alive possessed the knowledge. May that be truly said of us, and all of us! And so, as Tiny Tim observed, God bless Us, Every One! "	Charles Dickens, A Christmas Carol
+<hr>
+
 
 Painting is silent poetry and poetry painting that speaks.	Simonides of Ceos
+<hr>
+
 
 "No written word, no oral plea,
 can teach our youth, what they should be.
 Nor all the books on all the shelves,
-It's what the teachers are themselves.
-"	John Wooden, favorite poem (source unknown to me)
+It's what the teachers are themselves."  
 
-The quarrels of lovers are the renewal of love.	Terence
+— John Wooden, favorite poem (source unknown to me)
+<hr>
 
-We need the tonic of wildness.	Thoreau
+
+The quarrels of lovers are the renewal of love.	
+— Terence
+<hr>
+
+We need the tonic of wildness.	
+— Henry David Thoreau
+<hr>
 
 Happiness is like a butterfly; the more you chase it, the more it will elude you.  But turn your attention to other things, it will come and sit softly on your shoulder.	Thoreau
 
-All poets and heroes are children of Aurora and emit their music at sunrise. Morning is when I have a dawn in me.  Thoreau
 
 "
 Und im übrigen lassen Sie sich das Leben geschehen. Glauben Sie mir: das Leben hat recht, auf alle Fälle. "	Rilke
@@ -643,8 +707,10 @@ I cannot say what loves have come and gone,
 I only know that summer sang in me 
 A little while, that in me sings no more."	Edna St. Vincent Millay, Sonnet XLIII
 
+<hr>
 
 I've failed over and over and over again in my life and that is why I succeed.	Michael Jordan
+<hr>
 
 "Every society honors its live conformists and its dead troublemakers."
 — Marshall McLuhan
@@ -653,17 +719,20 @@ I've failed over and over and over again in my life and that is why I succeed.	M
 
 
 Fortune favours the bold.	Virgil
+<hr>
 
 First, it was not a strip bar, it was an erotic club. And second, what can I say? I'm a night owl.	-Marion Barry, former mayor of Washington D.C.
+<hr>
 
 "Let us live so that when we come to die, even the undertaker will be sorry."	Mark Twain
+<hr>
 
 I saw the best minds of my generation destroyed by
 madness, starving hysterical naked, 
 dragging themselves through the negro streets at dawn 
 looking for an angry fix, 	Allen Ginsberg, "Howl"
+<hr>
 
-Love is a snowmobile racing across the tundra and then suddenly it flips over, pinning you underneath. At night, the ice weasels come.	Matt Groening (The Simpsons)
 
 
 Listen to the MUSTN'TS, child,	
@@ -676,8 +745,8 @@ Anything can happen, child,
 ANYTHING can be.
 	
 — Shel Silverstein
+<hr>
 
 "Joy is to be present to oneself in truth."
 — Søren Kierkegaard
 
-The generous and bold have the best lives.	Icelandic proverb

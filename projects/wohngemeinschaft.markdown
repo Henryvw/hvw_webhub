@@ -21,8 +21,9 @@ title: "DudenDudes Creative Wohngemeinschaft"
   <div class="row g-0">
     <div class="col-md-12">
       <div class="card-body">
-        <h3 class="card-title">WG Manifesto</h3>
-        <h5 class="card-title"><i>In 2016 in founding our Wg we first wrote a manifesto about what we wanted to create. Since then, members have come and again, but a piece of the original spirit lives on.</i></h5>
+        <h2 class="card-title">Our Living Society Manifesto</h2>
+        <h5 class="card-title"><i>In 2016 in founding our living society we first wrote a manifesto about what we wanted to create. Since then, members have come and gone, but a piece of the original spirit lives on.</i></h5>
+        <h3 class="card-title">Unser WG Manifest</h3>
         <p class="card-text">Heutzutage fangen wenige Leute ihre Wohnungssuche mit dem Schreiben eines Manifests an. Möglicherweise ist das einer der Gründe, warum das Leben der meisten Leute langweilig ist.<br><br>
 Mein Leben ist doch nicht langweilig! Hier ist mein Manifest. Ich will hier in Berlin eine WG gründen. Es könnte schwierig werden. Willst du mitmachen?<br><br>
 
@@ -46,7 +47,7 @@ Somit möchte ich mein Manifest abschließen, mit der Ausnahme eines letzten Zit
 
 ![startup](/assets/images/wg/startup2.jpg)
 
-Our <a href="https://Henryvw/eruditus/">Eruditus Learning Program </a>Experiment
+Our <a href="https://Henryvw/eruditus/">Eruditus Learning Program</a> Experiment
 
 ![eruditus](/assets/images/wg/eruditus.jpg)
 ![cello](/assets/images/wg/cello.jpg)

@@ -6,6 +6,19 @@ permalink: essays/artist_and_community
 tags: philosophy entrepreneurship 
 ---
 
+OK Henry, what are you trying to say here? 
+
+Break into sections.
+
+First off, who is my audience? Elliott Turley.
+1. Central question: How could we advance society to have something that gives individuals power to be the artists of their own lives, and still have strong communities that can form powerful groups with direction and purpose, full of meaning and passion?
+
+Write with VIM and VIGOUR. PASSION. FORCE. ELOQUENCE. ENERGY. Do not OVERTHINK. Read On the Road beforehand. Beat poetry. Beat poetry meats Nietzsche. Meets philosophy.   
+
+Those first cave paintings in France, from 40,000 years ago. An artist. 
+
+There is always  
+
 Nietzsche calls Christianity Platonism for the masses. I watched a mass in Italy a few weeks ago. Mass, it struck me, is a _Gesamtkunstwerk_. It's costume, theater, music, incense, food, therapy, rhetoric, painting, sculpture, and architecture. The _Gesamtkunstwerk_ of mass is the operation of humanity's diverse creative powers to bring the Christian god to life. That's what Nietzsche means when he writes that God is dead and we have killed him: God _was_ alive. All our creative arts brought Him to life and made Him powerful in our lives. We modeled ourselves after the saints we saw in our paintings and our cathedrals, sang and chanted about in our music and heard about from our priests' sermons.
 
 ![image](/assets/images/essays/worthalle.jpg){: .align-right style="width: 500px"}

@@ -159,7 +159,72 @@ body {
   background-image: url("/assets/images/henry_van_wagenberg.jpg"); /* fallback */
   //background-color: rgba(221, 77, 65, 0.35); /* use rgba for fine adjustments */
   background-size:cover;
-
   background-blend-mode: multiply;
 }
+
+
+
+
+.logo {
+  text-align: center;
+  padding-top: 15px;
+  padding-left: 135px;
+  max-width: 68%;
+    display: inline-block;
+}
+
+@media (min-width: 576px){
+  .logo {
+    display: inline-block;
+    padding-top: 40px;
+    padding-left: 200px;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 768px){
+  .logo {
+    display: inline-block;
+    padding-top: 60px;
+    padding-left: 200px;
+    max-width: 48%;
+  }
+}
+
+@media (min-width: 992px){
+  .logo {
+    display: inline-block;
+    padding-top: 240px;
+    padding-left: 380px;
+    max-width: 56%;
+  }
+}
+
+@media (min-width: 1200px){
+  .logo {
+    display: inline-block;
+    padding-top: 240px;
+    padding-left: 380px;
+    max-width: 56%;
+  }
+}
+
+@media (min-width: 1400px){
+  .logo {
+    display: inline-block;
+    padding-top: 300px;
+    padding-left: 440px;
+    max-width: 56%;
+  }
+}
+
+
+
+
+
+
+
+
+// Make @Media .logo and/or Google someone set up a nice Bootstrap left corner logo with media ... 
+
 
