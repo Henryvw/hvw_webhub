@@ -6,6 +6,12 @@ permalink: /Drawing
 
 My Sketches
 
+![henry_van_wagenberg](assets/images/henry_van_wagenberg.png)
+
+![logo](assets/images/logo2.png)
+
+![working_octo](assets/images/working_octo.png)
+
 ![Ukraine](assets/images/drawing/ukraine.png)
 
 ![winds_of_free_discussion](assets/images/drawing/winds_of_free_discussion.png)
