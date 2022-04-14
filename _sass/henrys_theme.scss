@@ -156,11 +156,25 @@ body {
 }
 
 .homepage {
-  background-image: url("/assets/images/henry_van_wagenberg.jpg"); /* fallback */
+  background-image: url("/assets/images/henry_van_wagenberg.png"); /* fallback */
+  background-position: center;
+  background-size: cover;
+
+
+  background-image: url("/assets/images/henry_van_wagenberg.png"); /* fallback */
   //background-color: rgba(221, 77, 65, 0.35); /* use rgba for fine adjustments */
-  background-size:cover;
-  background-blend-mode: multiply;
+
 }
+
+@media(min-width: 768px){
+  .homepage {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+  }
+}
+
+
 
 
 
@@ -170,7 +184,7 @@ body {
   padding-top: 15px;
   padding-left: 135px;
   max-width: 68%;
-    display: inline-block;
+  display: inline-block;
 }
 
 @media (min-width: 576px){
