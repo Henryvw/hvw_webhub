@@ -228,3 +228,13 @@ body {
     max-width: 56%;
   }
 }
+
+.title-right{
+  text-align: right;
+}
+
+@media (min-width: 992px){
+  .title-right{
+    text-align: left;
+  }
+}

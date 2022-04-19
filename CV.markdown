@@ -1,8 +1,8 @@
 ---
-layout: "page"
-permalink: "CV"
+layout: page
+title: Curriculum Vitae
+permalink: /CV
 ---
-<h1>Curriculum Vitae</h1>
 <div class="card mb-3 bg-success text-white" style="max-width: 800px;">
   <div class="row g-0">
     <div class="col-md-12">

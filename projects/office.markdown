@@ -1,6 +1,6 @@
 ---
-layout: "page"
-title: "Office"
+layout: page
+title: Office
 ---
 ### We founded an office collective in Neukölln, Berlin as a place to work together. We've since ended the project but we enjoyed it while it lasted! We also learned a lot from the experience.
 

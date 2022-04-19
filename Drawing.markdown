@@ -1,10 +1,10 @@
 ---
-layout: "page"
-title: "Drawing"
+layout: page
+title: Drawing
 permalink: /Drawing
 ---
 
-My Sketches
+## My Sketches
 
 ![henry_van_wagenberg](assets/images/henry_van_wagenberg.png)
 

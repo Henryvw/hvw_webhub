@@ -1,6 +1,6 @@
 ---
-layout: "page"
-title: "Writing"
+layout: page
+title: Writing
 ---
 
 <!---

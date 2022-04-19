@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /Quotes_I_Like
+title: Quotes I Like
 ---
-## Quotes I Like
 "The generous and bold have the best lives."  
 
 — Poetic Edda, Ancient Norse Manuscript from Iceland

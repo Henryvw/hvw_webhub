@@ -1,12 +1,8 @@
 ---
+title: About
 layout: page
 permalink: /About
 ---
-
-<h2>
-  About
-</h2>
-  <br>
   <img border="1.5" src="/assets/images/henry_tall_interests.jpg" class="align-right"/>
   <p>
     I’m an entrepreneur living in Berlin, Germany.

@@ -1,6 +1,6 @@
 ---
-layout: "page"
-title: "Interviews"
+layout: page
+title: Interviews
 permalink: /Interviews
 ---
 

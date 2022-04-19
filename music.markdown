@@ -1,15 +1,10 @@
 ---
-layout: "page"
+layout: page
 image: assets/images/music.jpg
+title: Music
 ---
 <div class="container">
 <div class="row align-items-start">
-  <div class="col-7">
-<h1>Music</h1>
-  </div>
-  <div class="col-5">
-    <img border="1.5" src="/assets/images/music.jpg">
-  </div>
 </div>
     <h5> Baba O'Riley, The Who - Piano Cover</h5>
     <p>February, 2022</p>
