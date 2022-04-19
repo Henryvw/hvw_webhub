@@ -24,3 +24,16 @@ set_current_tab_to_active = function() {
 colorize_the_active_tab(url_path_name)
 
 //Congratulations! You just experienced A Tasty Helping of Custom Henry van Wagenberg Javascript Functions
+//
+//
+
+
+getLogo = function() {
+  var grabbedLogo = document.getElementById("logo-img");
+if (grabbedLogo.style.display === "none") {
+    grabbedLogo.style.display = "block";
+  } else {
+    grabbedLogo.style.display = "none";
+  }
+}
+

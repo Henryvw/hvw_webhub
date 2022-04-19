@@ -1,15 +1,15 @@
 ---
-layout: "page"
-permalink: "CV"
+layout: page
+title: Curriculum Vitae
+permalink: /CV
 ---
-<h1>Curriculum Vitae</h1>
 <div class="card mb-3 bg-success text-white" style="max-width: 800px;">
   <div class="row g-0">
     <div class="col-md-12">
       <div class="card-body">
-        <h5 class="card-title">Founder, Baugarten: The World-Building Computer Game for Algebra</h5>
+        <h5 class="card-title mt-3">Founder, Baugarten: The World-Building Computer Game for Algebra</h5>
         <p class="card-text">Founded and created a first prototype for a world-building computer game that teaches algebra and geometry. Baugarten’s central question is, how do we link kids’ natural curiosity to the intrinsic excitement of learning algebra and geometry? How do we turn math education into an experience discovering the power of formulas to shape the world around you? <a href="http://baugarten.app">Read more </a></p>
-        <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-right">2022-Present</small></p>
+        <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-right">2021-Present</small></p>
       </div>
     </div>
     <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674874714?h=f6cd7ffc3f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Baugarten: The World-Building Game That Teaches Algebra"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -26,7 +26,7 @@ permalink: "CV"
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Freelance Programmer</h5>
+        <h5 class="card-title">Freelance Software Developer</h5>
         <p class="card-text">Developed software freelance using Ruby on Rails for a number of Berlin's largest startups, including Helpling, FinLeap and Movinga.</p>
         <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-right">2017-2021</small></p>
       </div>
@@ -51,7 +51,7 @@ permalink: "CV"
   <div class="row g-0">
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Jr Ruby on Rails Software Engineer, Blacklane GmbH, Berlin, Germany</h5>
+        <h5 class="card-title mt-3">Software Developer, Blacklane GmbH, Berlin, Germany</h5>
         <p class="card-text">Solved tickets on client-facing core Rails application. Built user features and wrote rake scripts tov interact with our Contentful API. "Firefighter" once a month to solve crucial bugs. Participated in Agile / Scrum team and organised team offsite BBQ to reflect on our challenges as a team.</p>
         <p class="card-text">Blacklane is a Daimler-backed transportation startup similar to Uber, focusing on chaffeur services.</p>  
 
@@ -65,14 +65,15 @@ permalink: "CV"
 </div>
 
 <div class="card mb-3 bg-danger text-white" style="max-width: 800px;">
-  <div class="row g-0 d-flex align-items-center m-3 mt-10">
+  <div class="row g-0 d-flex align-items-center mt-10">
     <img src="/assets/images/cv/abroad_bus.jpg" class="img-fluid mt-10 rounded-start" alt="...">
   </div>
 
   <div class="row g-0">
     <div class="card-body">
       <h5 class="card-title">Found & Sold Student Reviews Platform, RateMyStudyAbroad - Leyte Island, Philippines & Colorado</h5>
-      <p class="card-text">Founded, raised funds, managed developers and designers, and led sales to create independent study abroad site with 5,000+ student reviews. Forged strategic partnership with GoAbroad.com, the largest abroad directory in the world. Moved to GoAbroad's Philippines office for 7 months over 2 years to lead team of seven Filipino PHP Symfony developers and designers. Managed three-person sales team in our Colorado headquarters. Led creation of 2-year project to build and successfully sell 'MyEvaluator' student review content management tool for abroad offices. Drove our marketing bus across North America (from Alaska to Alabama) to sell review software product to universities and abroad programs in-person. <a href="/projects/ratemystudyabroad">Read More.</a> </p> <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-white text-right">2010-2014</small></p>
+      <p class="card-text">Founded, raised funds, managed developers and designers, and led sales to create independent study abroad site with 5,000+ student reviews. Forged strategic partnership with GoAbroad.com, the largest abroad directory in the world. Moved to GoAbroad's Philippines office for 7 months over 2 years to lead team of seven Filipino PHP Symfony developers and designers. Managed three-person sales team in our Colorado headquarters. Led creation of 2-year project to build and successfully sell 'MyEvaluator' student review content management tool for abroad offices. Drove our marketing bus across North America (from Alaska to Alabama) to sell review software product to universities and abroad programs in-person. <a href="/projects/ratemystudyabroad">Read More.</a> </p> 
+      <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-dark text-right">2010-2014</small></p>
     </div>
   </div>
   <div class="row g-0 d-flex align-items-center m-3">
@@ -82,42 +83,31 @@ permalink: "CV"
 
 <div class="card mb-3 bg-warning text-white" style="max-width: 800px;">
   <div class="row g-0">
-    <div class="col-md-7 ">
-      <div class="card-body">
-        <h5 class="card-title">Manager, Gordon Ramsay-Featured Cafe Hon Restaurant, Baltimore</h5> 
-        <p class="card-text">Managed restaurant, waited tables, ran food, washed dishes, barbacked and bartended at WCafe Hon", featured at the time in Gordon Ramsay's <i>Kitchen Nightmares</i></p>
-        <p class="card-text position-absolute top-0 end-0 mb-2 me-3"><small class="text-right">2009-2010</small> </p>
-	<p>&nbsp;</p>
-      </div>
+    <div class="card-body">
+      <h5 class="card-title mt-3">Manager, Gordon Ramsay-Featured Restaurant, Baltimore</h5>
+      <p class="card-text">Managed restaurant, waited tables, ran food, washed dishes, barbacked and bartended at Baltimore's famous "Cafe Hon" restaurant, featured at the time in Gordon Ramsay's <i>Kitchen Nightmares</i></p>
+      <p class="card-text position-absolute top-0 end-0 mb-2 me-3"><small class="text-right">2009-2010</small> </p>
     </div>
-    <div class="col-md-3 d-flex align-items-center m-3">
-    <iframe src="https://www.youtube.com/embed/0HPQ3WCmWBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
+  </div>
+  <div class="row g-0 d-flex align-items-center m-3">
+    <iframe width="530" height="300" src="https://www.youtube.com/embed/0HPQ3WCmWBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
 <div class="card mb-3 bg-primary text-white position-relative" style="max-width: 800px;">
-        <div class="position_cv_dates d-flex flex-row-reverse me-4 mt-2">
-        <p class="card-text"><small class="">2009-2010</small></p>
-      </div>
-  <div class="row mt-n5">
-    <div class="col-md-12">
       <div class="card-body">
-        <h5 class="card-title">Philosophy Year, Self-Study Project</h5>
+        <h5 class="card-title mt-3">Philosophy Year, Self-Study Project</h5>
         <p class="card-text">I committed one year of my life to studying Greek and Roman philosophy, beginning with the Pre-Socratics, Plato and Aristotle. Waited tables and bartender in the evening to fund my self-study project</p> 
-      </div>
+        <p class="card-text position-absolute top-0 end-0 mb-2 me-3"><small class="text-right">2009-2010</small> </p>
     </div>
-  </div>
 </div>
 
 <div class="card mb-3 bg-orange text-white" style="max-width: 800px;">
   <div class="row g-0">
-    <div class="col-md-12">
-        <p class="card-text text-end mt-1 me-4"><small class="">2008-2009</small></p>
       <div class="card-body">
-        <h5 class="card-title">Account Executive, Mimeo, New York, NY</h5>
+        <h5 class="card-title mt-3">Account Executive, Mimeo, New York, NY</h5>
         <p class="card-text">80 phone calls per day articulating and selling New York, NY based Mimeo.com's online print and logistics solution</p>
-      </div>
+        <p class="card-text position-absolute top-0 end-0 mb-2 me-3"><small class="text-right">2008-2009</small> </p>
     </div>
   </div>
 </div>
@@ -126,7 +116,7 @@ permalink: "CV"
   <div class="row g-0">
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Intern, The White House, D.C.</h5>
+        <h5 class="card-title mt-3">Intern, The White House, D.C.</h5>
         <p class="card-text">Presidential Personnel: Candidate Research for major government staff. Attended West Wing staff meetings. Took phone calls, escorted candidates, prepared resume summary documents. Presidential Personnel advises the president on cabinet and other senior staff personnel decisions</p> 
         <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-right">2007-2008</small></p>
       </div>
@@ -146,7 +136,7 @@ permalink: "CV"
       <div class="card-body">
         <h5 class="card-title"><i>USS Robert C. Seamans</i> Tall Ship Deckhand, Oceanographic Researcher</h5> 
         <p class="card-text">Trained for a summer in Woods Hole, MA in tall ship sailing.<br> <br> Sailed aboard the 120 foot <i>Robert. C. Seamans</i> as a deckhand, learning under Coast Guard officers, from Hawaii to California. Also worked as an oceanographic research student, studying a form of plankton known as diatoms</p>
-        <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-right">2007</small></p>
+        <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-dark text-right">2007</small></p>
     </div>
     </div>
     <div class="col-md-4 d-flex align-items-center">
@@ -174,7 +164,7 @@ permalink: "CV"
   <div class="row g-0">
     <div class="col-md-12">
       <div class="card-body">
-        <h5 class="card-title">Intern, DPP - Democratic Progressive Party, Tapei, Taiwan</h5> 
+        <h5 class="card-title mt-3">Intern, DPP - Democratic Progressive Party, Tapei, Taiwan</h5> 
         <p class="card-text">Assisted with visits from foreign press, representatives and scholars. Overhauled and reformatted English newsletter for governing party of the Republic of China.</p>
         <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-right">2005</small></p>
       </div>
@@ -186,7 +176,7 @@ permalink: "CV"
   <div class="row g-0">
     <div class="col-md-12">
       <div class="card-body">
-        <h5 class="card-title">Student, Middlebury College Chinese Language School</h5> 
+        <h5 class="card-title mt-3">Student, Middlebury College Chinese Language School</h5> 
         <p class="card-text">3 Month Full Immersion in Mandarin Chinese</p>
         <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-right">2003</small></p>
       </div>
@@ -198,7 +188,7 @@ permalink: "CV"
   <div class="row g-0">
     <div class="col-md-12">
       <div class="card-body">
-        <h5 class="card-title">Academic Fellowships</h5> 
+        <h5 class="card-title mt-3">Academic Fellowships</h5> 
         <p class="card-text">DAAD - Deutsche Akademische Austausch Dienst (German Academic Exchange Service) Fellow, 2005-2006</p>
         <p class="card-text">Freeman Foundation, Asia Grants - 2004 and 2005</p>
         <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-right">2004, 2005</small></p>

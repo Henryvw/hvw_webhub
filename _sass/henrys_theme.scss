@@ -7,7 +7,7 @@ $text-muted: $gray-600 !default;
 //Colors
 $blue: #3DA5D9 !default;
 $indigo: #2364AA !default; // dark-blue
-$red: #EF3E36 !default; // 124 red
+$red: #e1422c !default; // 124 red
 $orange: #EA7317 !default; // 166 orange
 $yellow: #FEC601 !default; // 214 yellow
 $green: #A8C69F !default; // 106 green
@@ -17,8 +17,33 @@ $black: #3a3335 !default; //coffee black
 @import "bootstrap/bootstrap";
 
 
+.align-right, img.align-right {
+margin-bottom: 1rem;
+margin-left: 1rem;
+float: right;
+width: 500px;
+}
+
+.align-left, img.align-left {
+margin-bottom: 1rem;
+margin-left: 1rem;
+float: left;
+width: 500px;
+}
+
+.align-center, img.align-center {
+margin-bottom: 1rem;
+margin-left: 1rem;
+float: center;
+width: 500px;
+}
+
 .bg-black {
   background-color: $black;
+}
+
+.bg-yellow {
+  background-color: $yellow;
 }
 
 .bg-orange {
@@ -131,10 +156,85 @@ body {
 }
 
 .homepage {
-  background-image: url("/assets/images/henry_van_wagenberg.jpg"); /* fallback */
-  //background-color: rgba(221, 77, 65, 0.35); /* use rgba for fine adjustments */
-  background-size:cover;
+    background-repeat: no-repeat;
+  background-image: url("/assets/images/henry_van_wagenberg.png"); /* fallback */
+  background-position: center;
+  background-size: cover;
 
-  background-blend-mode: multiply;
+
+  background-image: url("/assets/images/henry_van_wagenberg.png"); /* fallback */
+  //background-color: rgba(221, 77, 65, 0.35); /* use rgba for fine adjustments */
+
 }
 
+@media(min-width: 768px){
+  .homepage {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    ;
+  }
+}
+
+.logo {
+  text-align: center;
+  padding-top: 15px;
+  padding-left: 135px;
+  max-width: 68%;
+  display: inline-block;
+}
+
+@media (min-width: 576px){
+  .logo {
+    display: inline-block;
+    padding-top: 40px;
+    padding-left: 200px;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 768px){
+  .logo {
+    display: inline-block;
+    padding-top: 60px;
+    padding-left: 200px;
+    max-width: 48%;
+  }
+}
+
+@media (min-width: 992px){
+  .logo {
+    display: inline-block;
+    padding-top: 240px;
+    padding-left: 380px;
+    max-width: 56%;
+  }
+}
+
+@media (min-width: 1200px){
+  .logo {
+    display: inline-block;
+    padding-top: 240px;
+    padding-left: 380px;
+    max-width: 56%;
+  }
+}
+
+@media (min-width: 1400px){
+  .logo {
+    display: inline-block;
+    padding-top: 300px;
+    padding-left: 440px;
+    max-width: 56%;
+  }
+}
+
+.title-right{
+  text-align: right;
+}
+
+@media (min-width: 992px){
+  .title-right{
+    text-align: left;
+  }
+}

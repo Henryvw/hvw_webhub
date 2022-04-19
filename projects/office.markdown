@@ -1,21 +1,45 @@
 ---
-layout: "page"
-title: "Office"
+layout: page
+title: Office
 ---
+### We founded an office collective in Neukölln, Berlin as a place to work together. We've since ended the project but we enjoyed it while it lasted! We also learned a lot from the experience.
 
+
+![window](/assets/images/office/window.jpg)
+
+### We were a mix of startup-founders, alcohol-free wine enthusiasts and freelance programmers.
+
+![meeting](/assets/images/office/meeting.jpg)
+
+![slide1](/assets/images/office/slide1.jpg)
+
+![slide21](/assets/images/office/slide21.jpg)
+
+![slide2](/assets/images/office/slide2.jpg)
+![slide3](/assets/images/office/slide3.jpg)
+![slide4](/assets/images/office/slide4.jpg)
+
+![morning](/assets/images/office/morning.jpg)
+![party](/assets/images/office/party.jpg)
+![desk](/assets/images/office/desk.jpg)
+
+### We wrote our own "constitution" for how to work together, based on principles from Holocracy. Interestingly, and in retrospect unsurprisingly, this did not work as we expected it to. We learned a lot from it.
+![exercise](/assets/images/office/exercise.jpg)
+![plans](/assets/images/office/plans.jpg)
 # Unsere Bürogemeinschaftsverfassung 
 
 _"Vigeamus ubi orta libertas"_
 
 ## Präambel
 Kreative Köpfe Europas, erwachet! Wir Kreativitätshebammen gebären eine Gemeinschaft neuer Arbeitsformen, die die Arbeitswelt stürmen werden.
+![opening](/assets/images/office/open.jpg)
 
 Baugarten ist ein schwungvoller Garten des Bauens. Wir sind der Ort, auf den du dich in der Morgendämmerung deines Arbeitstages ---_freust_. Wir sind ein selbst-regierter Raum der freien Wagnisse, des freien Erfindens, Erkundens, Experimentierens, Lernens, Unterrichtens, Denkens, Dichtens, Scheiterns und Siegens.
 
 Dies sind unsere Grundsätze.
 
 ## I. Versammlungsgrundsätze
-###Versammlungsregelmäßigkeit
+### Versammlungsregelmäßigkeit
 Wir treffen uns persönlich an jedem zweiten Mittwoch um 09:00 Uhr für 15-30 Minuten, um gemeinsam über Entscheidungen zu debattieren.
 
 ### Versammlungsprotokoll
@@ -29,7 +53,7 @@ Der Moderator leitet die Versammlung. Er wendet das folgende Protokoll an und st
 6. **Nächster Moderator Auswählen** Der aktuelle Moderator bittet einen Mitglieder, die nächste Versammlung zu moderieren.
  
 ## II. Konsens-basiertes Entscheidungsverfahren
-![Entscheidungsverfahren.png](/assets/images/Entscheidungsverfahren.png)
+![Entscheidungsverfahren.png](/assets/images/office/Entscheidungsverfahren.png)
 
 Welche mitreißenden Kräfte bringen uns in Schwung? Wie treffen wir als Kollektiv Entscheidungen, die diese Kräfte entzünden? 
 

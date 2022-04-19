@@ -2,31 +2,24 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <h2 class="footer-heading text-white">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      <div class="footer-col footer-col-3">
         <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-            {{ site.author | escape }}
-            {%- else -%}
-            {{ site.title | escape }}
-            {%- endif -%}
+          <li class="p-name text-white">
+            I'm also an artist, pianist, coder, writer and gardener. Learn about my projects, including Baugarten, the world-building computer game that teaches algebra. <br> <br> I'd love to hear from you.
           </li>
           {%- if site.email -%}
-          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a class="u-email text-white" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {%- endif -%}
         </ul>
       </div>
-
       <div class="footer-col footer-col-2">
-        {%- include social.html -%}
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+      <div class="footer-col footer-col-1">
+        <img class="img-fluid w-100" src="/assets/images/working_octo.png"/>
       </div>
     </div>
 
