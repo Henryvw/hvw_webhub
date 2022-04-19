@@ -6,9 +6,9 @@ permalink: /Drawing
 
 ## My Sketches
 
-![henry_van_wagenberg](assets/images/henry_van_wagenberg.png)
+![henry_van_wagenberg](assets/images/henry_van_wagenberg_full.png)
 
-![logo](assets/images/logo2.png)
+![logo](assets/images/logo.png)
 
 ![working_octo](assets/images/working_octo.png)
 
