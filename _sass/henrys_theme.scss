@@ -171,14 +171,10 @@ body {
   .homepage {
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100% 100%;
+    background-size: cover;
+    ;
   }
 }
-
-
-
-
-
 
 .logo {
   text-align: center;
@@ -232,14 +228,3 @@ body {
     max-width: 56%;
   }
 }
-
-
-
-
-
-
-
-
-// Make @Media .logo and/or Google someone set up a nice Bootstrap left corner logo with media ... 
-
-
