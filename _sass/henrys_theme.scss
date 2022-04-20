@@ -157,13 +157,11 @@ body {
 
 .homepage {
     background-repeat: no-repeat;
-  background-image: url("/assets/images/henry_van_wagenberg.png"); /* fallback */
-  background-position: center;
-  background-size: cover;
+    background: url("/assets/images/henry_van_wagenberg.png") no-repeat center center fixed;
+    background-size: cover;
+    min-height: 200%;
 
-
-  background-image: url("/assets/images/henry_van_wagenberg.png"); /* fallback */
-  //background-color: rgba(221, 77, 65, 0.35); /* use rgba for fine adjustments */
+    //background-color: rgba(221, 77, 65, 0.35); /* use rgba for fine adjustments */
 
 }
 
