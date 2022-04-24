@@ -4,7 +4,7 @@ title:  "How Can The Tribe Survive the Artist?"
 categories: essays poems stories
 permalink: essays/artist_and_community
 tags: philosophy entrepreneurship 
-image: assets/images/essays/worthalle.jpg
+image: /assets/images/essays/worthalle.jpg
 ---
 
 
