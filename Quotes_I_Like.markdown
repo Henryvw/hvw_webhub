@@ -33,6 +33,11 @@ title: Quotes I Like
   </div>
 </div>
 
+"Imagine if every moment something that is happening to you, you are choosing it."
+
+— Eckhart Tolle
+<hr>
+
 <div class="card mb-3 bg-white" style="max-width: 1200px;">
   <div class="row g-0">
     <div class="col-md-9 ">
