@@ -6,6 +6,11 @@ permalink: /Interviews
 
 Past Articles and Interviews
 
+### Spread The Views Podcast Germany, May 2022
+<a href="https://spread-the-views.de/homework-with-lipstick-on">Baugarten: No More Homework With Lipstick On<a/>
+
+[<img src="assets/images/interviews/spread_the_views.png">](https://spread-the-views.de/homework-with-lipstick-on)
+
 ### Universität Würzburg
 <a href="https://www.uni-wuerzburg.de/career/perspektiven/alumni-portraets/alumni-portraets-single/news/henry-van-wagenberg-bwl-unternehmensgruender/">Henry van Wagenberg, BWL, Unternehmensgründer<a/>
 
