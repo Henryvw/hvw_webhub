@@ -3,6 +3,7 @@ layout: post
 title:  "Make Your Work Into A Gift: How To Become A Genius"
 categories: genius creativity gift daemon work
 permalink: essays/how_to_become_a_genius
+image: assets/images/essays/kreacher.jpg
 tags: focus attention internet
 ---
 
