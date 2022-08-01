@@ -7,8 +7,8 @@ permalink: /CV
   <div class="row g-0">
     <div class="col-md-12">
       <div class="card-body">
-        <h5 class="card-title mt-3">Founder, Baugarten: The World-Building Computer Game for Algebra</h5>
-        <p class="card-text">Founded and created a first prototype for a world-building computer game that teaches algebra and geometry. Baugarten’s central question is, how do we link kids’ natural curiosity to the intrinsic excitement of learning algebra and geometry? How do we turn math education into an experience discovering the power of formulas to shape the world around you? <a href="http://baugarten.app">Read more </a></p>
+        <h5 class="card-title mt-3">Founder, Baugarten: The World-Building Computer Game for STEM Formulas</h5>
+        <p class="card-text">Founded and created a first prototype for a world-building computer game that teaches the formulas of STEM (Science, Technology and Math). Baugarten’s central question is, how do we link kids’ natural curiosity to the intrinsic excitement of learning formulas, starting with algebra and geometry? How do we turn math education into an experience discovering the power of formulas to shape the world around you? <a href="http://baugarten.app">Read more </a></p>
         <p class="card-text position-absolute top-0 end-0 mt-1 me-3"><small class="text-right">2021-Present</small></p>
       </div>
     </div>
