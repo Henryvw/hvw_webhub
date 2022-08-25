@@ -23,7 +23,6 @@ I’ve studied Mandarin Chinese at Middlebury College, business at Universität 
 My heroes are Goethe, Churchill and DaVinci. All three men were artists of words, pictures, and their own lives.
 </p>
 <p>
-<img border="1.5" src="/assets/images/interests.jpg" class="align-right"/>
 My favorite programming language is Ruby. I enjoy gardening and dancing. 
 </p>
 <figure>
