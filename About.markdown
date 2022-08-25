@@ -8,7 +8,7 @@ permalink: /About
     I’m an entrepreneur living in Berlin, Germany.
   </p>
   <p>
-    My key project is <a href="http://baugarten.app"> Baugarten, the world-building computer game that teaches algebra</a>.
+    My key project is <a href="http://baugarten.app"> Baugarten, the world-building computer game that teaches STEM formulas</a>.
   </p>
   <p>
     My other projects include <a href="https://www.stoicpenknife.com">Stoic Penknife</a>, <a href="../projects/salons">philosophy salons</a>, and <a href="../projects/wohngemeinschaft">our creative <i>Wohngemeinschaft</i></a>. We discontinued <a href="../projects/office">our office project in Berlin</a>.
