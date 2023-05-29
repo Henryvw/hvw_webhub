@@ -5,7 +5,7 @@ permalink: /About
 ---
   <img border="1.5" src="/assets/images/henry_tall_interests.jpg" class="align-right"/>
   <p>
-    I’m an entrepreneur living in Berlin, Germany.
+    I’m a creator of startups, games, art, writing and communities living in Berlin, Germany.
   </p>
   <p>
     My key project is <a href="http://baugarten.app"> Baugarten, the world-building computer game that teaches STEM formulas</a>.
