@@ -8,7 +8,7 @@ permalink: /About
     I’m a creator of startups, games, art, writing and communities living in Berlin, Germany.
   </p>
   <p>
-    My key project is <a href="http://baugarten.app"> Baugarten, the world-building computer game that teaches STEM formulas</a>.
+    My key project is <a href="http://baugarten.app"> Baugarten, the world-building game for learning STEM formulas</a>.
   </p>
   <p>
     My other projects include <a href="https://www.stoicpenknife.com">Stoic Penknife</a>, <a href="../projects/salons">philosophy salons</a>, and <a href="../projects/wohngemeinschaft">our creative <i>Wohngemeinschaft</i></a>. We discontinued <a href="../projects/office">our office project in Berlin</a>.
