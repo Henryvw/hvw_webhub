@@ -15,13 +15,12 @@ To portray Achilles, Athena, Agamemnon, Helen, Priam, Cassandra, Odysseus & all 
 
 Gods and heroes are, in other words, an existentialist playground. 
 
-![existentialists](/assets/images/essays/existentialist.jpg){: .align-left style="width: 275px"}
+![existentialists](/assets/images/essays/existentialist.jpg){: .align-right style="width: 275px"}
 
 They are extreme. Their emotions, their origins, their choices and their fates are exaggerated, because they represent the furthest possible imaginative horizons for how a human being might live his (or her) life. 
 
-![assisi](/assets/images/essays/assisi.jpg){: .align-right style="width: 300px"}
-
-The saint is the Christian hero. Saint Francis of Assisi is the Achilles of the Christian spirit. Francis' life -- its extremes -- offer us a picture of a new 'Mode' (in the Spinoza sense) of Being. Stripping himself of his riches, proposing marriage to the 'Lady Poverty', sojourning into the forest half-naked and preaching to the birds, he inspires millions to adopt an extraordinary and extreme new way of life.
+The saint is the Christian hero. ![assisi](/assets/images/essays/assisi.jpg){: .align-right style="width: 300px"}
+ Saint Francis of Assisi is the Achilles of the Christian spirit. Francis' life -- its extremes -- offer us a picture of a new 'Mode' (in the Spinoza sense) of Being. Stripping himself of his riches, proposing marriage to the 'Lady Poverty', sojourning into the forest half-naked and preaching to the birds, he inspires millions to adopt an extraordinary and extreme new way of life.
 
 Just as a child climbs the trees in his backyard to explore his environment, so all humans play with these stories to explore what to do with their own lives. His whole life Churchill keeps a bust of Napoleon on his desk because Napoleon's story offers Churchill a vision, a ‘Vorbild’ (in German: the ‘fore picture' - the picture in front of you of what you want to become) of just how large one man might make his life.
 
@@ -29,8 +28,9 @@ Existentialist writers invent new heroic models to help us conceive of new ways 
 
 Naturally, many gods are not ‘Vorbilder’ in the strict sense. Their extremes reflect our fears as much as our hopes, our nightmares as much as our dreams. Yet, as our creations, do they not reflect back at us, in some rough sense, a mirror of our desires? 
 
-Religious practice offers the opportunity to discipline and form our characters together. A religious exercise as simple as a weekly church service, ![prayer](/assets/images/essays/prayer.jpg){: .align-right style="width: 350px"}
-a call to prayer at dawn, or yoga, offers us a collective toolkit to reshape ourselves. Religious exercises work because it's more fun to practice together. 
+![prayer](/assets/images/essays/prayer.jpg){: .align-right style="width: 350px"} 
+
+Religious practice offers the opportunity to discipline and form our characters together. A religious exercise as simple as a weekly church service, a call to prayer at dawn, or yoga, offers us a collective toolkit to reshape ourselves. Religious exercises work because it's more fun to practice together. 
 
 Moreover unlike Churchill's bust of Napoleon on his desk — unlike historical heroes — gods live in the realm of art. The gods offer us an opportunity to explore ways of Being whose only boundary is our artistic imagination. We can be the poets and artists of our own lives through fashioning our own gods together -- our own imaginative Forms & Modes of how to live. Goethe and his daimon and the extravagant artistry of the life of Saint Francis of Assisi are born from this super-natural artistic imagination. 
 
