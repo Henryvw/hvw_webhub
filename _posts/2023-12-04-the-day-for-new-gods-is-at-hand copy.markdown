@@ -3,7 +3,7 @@ layout: post
 title:  "The Day For New Gods Is At Hand"
 categories: mythology gods greece daimon
 permalink: essays/the-day-for-new-gods-is-at-hand
-image: assets/images/essays/neptune.jpg
+image: assets/images/essays/mediator.jpg
 tags: gods vorbild eros horizon 
 ---
 
@@ -11,19 +11,24 @@ tags: gods vorbild eros horizon
 
 To portray Achilles, Athena, Agamemnon, Helen, Priam, Cassandra, Odysseus & all the gods & heroes of _The Iliad_ via the arts of language, painting, music and sculpture -- to portray or to contemplate their emotions, their origins, their choices, and their fates -- is to engage our imaginative power in playful exploration of the infinitely different ways to live a human life. 
 
+![achilles](/assets/images/essays/achilles.jpg){: .align-left style="width: 500px"}
+
 Gods and heroes are, in other words, an existentialist playground. 
 
 They are extreme. Their emotions, their origins, their choices and their fates are exaggerated, because they represent the furthest possible imaginative horizons for how a human being might live his (or her) life. 
 
-![achilles](/assets/images/essays/achilles.jpg)
+![existentialists](/assets/images/essays/exisentialists.jpg){: .align-left style="width: 350px"}
 
-The saint is the Christian variety of hero. Saint Francis of Assisi is the Achilles of the Christian spirit. Francis' life -- its extremes -- offer us a picture of a new 'Mode' (in the Spinoza sense) of Being. Stripping himself of his riches, proposing marriage to the 'Lady Poverty', sojourning into the forest half-naked and preaching to the birds, he inspires millions to adopt an extraordinary and extreme new way of life.
+The saint is the Christian hero. Saint Francis of Assisi is the Achilles of the Christian spirit. Francis' life -- its extremes -- offer us a picture of a new 'Mode' (in the Spinoza sense) of Being. Stripping himself of his riches, proposing marriage to the 'Lady Poverty', sojourning into the forest half-naked and preaching to the birds, he inspires millions to adopt an extraordinary and extreme new way of life.
+
+![achilles](/assets/images/essays/assisi.jpg){: .align-right style="width: 500px"}
 
 Just as a child climbs the trees in his backyard to explore his environment, so all humans play with these stories to explore what to do with their own lives. His whole life Churchill keeps a bust of Napoleon on his desk because Napoleon's story offers Churchill a vision, a ‘Vorbild’ (in German: the ‘fore picture' - the picture in front of you of what you want to become) of just how large one man might make his life.
 
-Existentialist writers invent new heroic models to help us conceive of new ways to live -- new ways to think about our choices. Kierkegaard invents his 'Knight of Faith.' Nietzsche invents his ‘Übermensch.'
+![prince Harry as praying mantis](/assets/images/essays/mantis.png){: .align-right style="width: 500px"}
 
-![neptune](/assets/images/essays/neptune.jpg){: .align-right style="width: 500px"}
+
+Existentialist writers invent new heroic models to help us conceive of new ways to live -- new ways to think about our choices. Kierkegaard invents his 'Knight of Faith.' Nietzsche invents his ‘Übermensch.'
 
 Naturally, many gods are not ‘Vorbilder’ in the strict sense. Their extremes reflect our fears as much as our hopes, our nightmares as much as our dreams. Yet, as our creations, do they not reflect back at us, in some rough sense, a mirror of our desires? 
 
@@ -35,9 +40,11 @@ Moreover unlike Churchill's bust of Napoleon on his desk — unlike historical h
 
 Just as fiction and theater give us art forms to explore ways of Being beyond the boundaries of strict reality, gods offer us a mythical space to explore who we are, what we worship, and who we (both as individuals, and, crucially, as a community) might become.
 
+![neptune](/assets/images/essays/neptune.jpg)
+
 Is it an accident that the extraordinary explosion of power in Europe in the 15th-19th centuries accompanied a great artistic rebirth of the Greek & Roman gods in art? What if these new (old) gods were not just rococo dalliances, but part of a rediscovered imaginative playground for how to live?
 
-To pick just one category to reveal how our models today by comparison are impoverished, take sex. Why are the poetry of Sappho, The Song of Solomon and Dante different from Tinder? What if Yahweh and Eros poeticized our behavior? As Plato writes in the Symposium, “The Lover is greater than the Beloved, because he has the god in him.” Eros transforms sex into Eroticism. Eros is a star above sex. Under his spell, an animal drive turns into art. Living gods like Eros inject abundant extravagance into our motivations and behavior.
+To pick just one category to reveal how our models today by comparison are impoverished, take sex. Why are the poetry of Sappho, The Song of Solomon and Dante different from Tinder? What if Yahweh and Eros poeticized our behavior? As Plato writes in the Symposium, “The Lover is greater than the Beloved, because he has the god in him.” Eros transforms sex into Eroticism. A love god is a star above sex. Under his spell, an animal drive turns into art. Living gods like Eros inject abundant extravagance into our motivations and behavior.
 
 ![eros](/assets/images/essays/eros.jpg){: .align-right style="width: 500px"}
 
@@ -47,7 +54,7 @@ Naturally I'm not the first person to point out that today youth looks to celebr
 
 (Hera would have transformed Harry into a praying mantis, with all the attending consequence for the male of that species after mating with Meghan).
 
-![prince Harry as praying mantis](/assets/images/essays/mantis.jpg){: .align-right style="width: 500px"}
+![prince Harry as praying mantis](/assets/images/essays/mantis.png){: .align-right style="width: 500px"}
 
 Another example of our worship of small Vorbilder is another Harry, this one found in art — Harry Potter. What do JK Rowling’s texts — and the late night book release vigils, viewing and costume celebrations — remind you of? Today if you find yourself in a conversation with a 20-something Harry Potter-fan about the behavior of Severus Snape, you may discover a cosmos of moral exegesis worthy of a passage in scripture. The schism over JK Rowling’s tweets about women might even, in their small way, remind one of the forced side-taking in young Christian churches during the Arian or Donatist Controversies.
 
