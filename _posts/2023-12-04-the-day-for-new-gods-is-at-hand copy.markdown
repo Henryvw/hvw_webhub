@@ -7,7 +7,7 @@ image: assets/images/essays/mediator.jpg
 tags: gods vorbild eros horizon 
 ---
 
-![statue](/assets/images/essays/mediator_focus.jpg)
+![statue](/assets/images/essays/mediator_focus.jpg){: .align-center style="width: 500px"}
 
 To portray Achilles, Athena, Agamemnon, Helen, Priam, Cassandra, Odysseus & all the gods & heroes of _The Iliad_ via the arts of language, painting, music and sculpture -- to portray or to contemplate their emotions, their origins, their choices, and their fates -- is to engage our imaginative power in playful exploration of the infinitely different ways to live a human life. 
 
@@ -30,7 +30,7 @@ Naturally, many gods are not ‘Vorbilder’ in the strict sense. Their extremes
 
 ![prayer](/assets/images/essays/prayer.jpg){: .align-right style="width: 350px"} 
 
-Religious practice offers the opportunity to discipline and form our characters together. A religious exercise as simple as a weekly church service, a call to prayer at dawn, or yoga, offers us a collective toolkit to reshape ourselves. Religious exercises work because it's more fun to practice together. 
+Religious practice offers the opportunity to discipline and form our characters together. A religious exercise as simple as a weekly church service, a call to prayer at dawn, or yoga, offers us a collective toolkit to reshape ourselves. Religious exercises work because it's more fun to practice together. As Aristotle observed, we are the social animal.
 
 Moreover unlike Churchill's bust of Napoleon on his desk — unlike historical heroes — gods live in the realm of art. The gods offer us an opportunity to explore ways of Being whose only boundary is our artistic imagination. We can be the poets and artists of our own lives through fashioning our own gods together -- our own imaginative Forms & Modes of how to live. Goethe and his daimon and the extravagant artistry of the life of Saint Francis of Assisi are born from this super-natural artistic imagination. 
 
