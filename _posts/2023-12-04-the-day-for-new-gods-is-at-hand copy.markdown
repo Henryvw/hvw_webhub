@@ -7,7 +7,7 @@ image: assets/images/essays/mediator.jpg
 tags: gods vorbild eros horizon 
 ---
 
-![statue](/assets/images/essays/mediator.jpg)
+![statue](/assets/images/essays/mediator_focus.jpg)
 
 To portray Achilles, Athena, Agamemnon, Helen, Priam, Cassandra, Odysseus & all the gods & heroes of _The Iliad_ via the arts of language, painting, music and sculpture -- to portray or to contemplate their emotions, their origins, their choices, and their fates -- is to engage our imaginative power in playful exploration of the infinitely different ways to live a human life. 
 
