@@ -19,8 +19,7 @@ Gods and heroes are, in other words, an existentialist playground.
 
 They are extreme. Their emotions, their origins, their choices and their fates are exaggerated, because they represent the furthest possible imaginative horizons for how a human being might live his (or her) life. 
 
-The saint is the Christian hero. ![assisi](/assets/images/essays/assisi.jpg){: .align-right style="width: 300px"}
- Saint Francis of Assisi is the Achilles of the Christian spirit. Francis' life -- its extremes -- offer us a picture of a new 'Mode' (in the Spinoza sense) of Being. Stripping himself of his riches, proposing marriage to the 'Lady Poverty', sojourning into the forest half-naked and preaching to the birds, he inspires millions to adopt an extraordinary and extreme new way of life.
+The saint is the Christian hero. Saint Francis of Assisi is the Achilles of the Christian spirit. Francis' life -- its extremes -- offer us a picture of a new 'Mode' (in the Spinoza sense) of Being. Stripping himself of his riches, proposing marriage to the 'Lady Poverty', sojourning into the forest half-naked and preaching to the birds, he inspires millions to adopt an extraordinary and extreme new way of life. ![assisi](/assets/images/essays/assisi.jpg){: .align-right style="width: 300px"}
 
 Just as a child climbs the trees in his backyard to explore his environment, so all humans play with these stories to explore what to do with their own lives. His whole life Churchill keeps a bust of Napoleon on his desk because Napoleon's story offers Churchill a vision, a ‘Vorbild’ (in German: the ‘fore picture' - the picture in front of you of what you want to become) of just how large one man might make his life.
 
