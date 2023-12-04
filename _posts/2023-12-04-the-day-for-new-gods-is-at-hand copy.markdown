@@ -17,11 +17,10 @@ Gods and heroes are, in other words, an existentialist playground.
 
 They are extreme. Their emotions, their origins, their choices and their fates are exaggerated, because they represent the furthest possible imaginative horizons for how a human being might live his (or her) life. 
 
-![existentialists](/assets/images/essays/exisentialist.jpg){: .align-left style="width: 200px"}
+![existentialists](/assets/images/essays/existentialist.jpg){: .align-left style="width: 275px"}
 
-The saint is the Christian hero. Saint Francis of Assisi is the Achilles of the Christian spirit. Francis' life -- its extremes -- offer us a picture of a new 'Mode' (in the Spinoza sense) of Being. Stripping himself of his riches, proposing marriage to the 'Lady Poverty', sojourning into the forest half-naked and preaching to the birds, he inspires millions to adopt an extraordinary and extreme new way of life.
-
-![assisi](/assets/images/essays/assisi.jpg){: .align-right style="width: 200px"}
+The saint is the Christian hero. Saint Francis of Assisi is the Achilles of the Christian spirit. Francis' life -- its extremes -- offer us a picture of a new 'Mode' (in the Spinoza sense) of Being. ![assisi](/assets/images/essays/assisi.jpg){: .align-right style="width: 300px"}
+Stripping himself of his riches, proposing marriage to the 'Lady Poverty', sojourning into the forest half-naked and preaching to the birds, he inspires millions to adopt an extraordinary and extreme new way of life.
 
 Just as a child climbs the trees in his backyard to explore his environment, so all humans play with these stories to explore what to do with their own lives. His whole life Churchill keeps a bust of Napoleon on his desk because Napoleon's story offers Churchill a vision, a ‘Vorbild’ (in German: the ‘fore picture' - the picture in front of you of what you want to become) of just how large one man might make his life.
 
@@ -31,11 +30,11 @@ Naturally, many gods are not ‘Vorbilder’ in the strict sense. Their extremes
 
 Religious practice offers the opportunity to discipline and form our characters together. A religious exercise as simple as a weekly church service, a call to prayer at dawn, or yoga, shapes our lives. Religious exercises work because it's more fun to practice together. Shared exercises are more effective in reshaping our bodies and our behavior.
 
-![prayer](/assets/images/essays/prayer.jpg){: .align-right style="width: 500px"}
+![prayer](/assets/images/essays/prayer.jpg){: .align-right style="width: 350px"}
 
 Moreover unlike Churchill's bust of Napoleon on his desk — unlike historical heroes — gods live in the realm of art. The gods offer us an opportunity to explore ways of Being whose only boundary is our artistic imagination. We can be the poets and artists of our own lives through fashioning our own gods together -- our own imaginative Forms & Modes of how to live. Goethe and his daimon and the extravagant artistry of the life of Saint Francis of Assisi are born from this super-natural artistic imagination. 
 
-![prayer](/assets/images/essays/exercise.jpg){: .align-right style="width: 500px"}
+![exercise](/assets/images/essays/exercise.png){: .align-right style="width: 500px"}
 
 Just as fiction and theater give us art forms to explore ways of Being beyond the boundaries of strict reality, gods offer us a mythical space to explore who we are, what we worship, and who we (both as individuals, and, crucially, as a community) might become.
 
@@ -43,9 +42,10 @@ Is it an accident that the extraordinary explosion of power in Europe in the 15t
 
 ![neptune](/assets/images/essays/neptune.jpg)
 
+![eros](/assets/images/essays/eros.jpg){: .align-right style="width: 350px"}
+
 To pick just one category to reveal how our models today by comparison are impoverished, take sex. Why are the poetry of Sappho, The Song of Solomon and Dante different from Tinder? What if Yahweh and Eros poeticized our behavior? As Plato writes in the Symposium, “The Lover is greater than the Beloved, because he has the god in him.” Eros transforms sex into Eroticism. A love god is a star above sex. Under his spell, an animal drive turns into art. Living gods like Eros inject abundant extravagance into our motivations and behavior.
 
-![eros](/assets/images/essays/eros.jpg){: .align-right style="width: 200px"}
 
 It goes without saying that mental models shape our reality. How rich and colorful is Michelangelo’s mental model of reality — compared to yours? How rich is your model of reality — compared to Homer?
 
@@ -73,9 +73,9 @@ Imagine if, for our new gods, we built new temples. What if we had new spaces fo
 
 ![future_cathedral](/assets/images/essays/cathedral.png)
 
-One key principle for my new pantheon would be a Heraklitean capacity for change. The Greek Pantheon needed no god for climate change. We might. Like an octopus which has its brain cells in its tentacles and in a flash metamorphoses it's body in response to touch, a democracy receives new information via votes. What if, in order to profit from wisdom-of-the-crowds intelligence and tentacled information-gathering, our new pantheon was democratic? Even in the early days of the Christian church, there were many councils that voted. 
+One key principle for our new pantheon would be a Heraklitean capacity for change. The Greek Pantheon needed no god for climate change. We might. Like an octopus which has its brain cells in its tentacles and in a flash metamorphoses it's body in response to touch, a democracy receives new information via votes. What if, in order to profit from wisdom-of-the-crowds intelligence and tentacled information-gathering, our new pantheon was democratic? Even in the early days of the Christian church, there were many councils that voted. 
 
-The last key principle for my new gods would be that they don’t reduce us. Certain gods in the past have been used to punish people. In 17th-century America a certain version of a god was used to make Hester Prynnes sew red scarlet letters into their dresses. Religions have used guilt and shame to control and diminish people's freedom of expression.
+Certain gods in the past have fed on mob bullying to punish people. In 17th-century America a certain version of a god was used to make Hester Prynne sew a red scarlet letter into her dress. Past religions have used guilt and shame to control and diminish people's freedom of expression. Another key principle for our new pantheon would be that ours magnifies rather than diminishes us as human beings.
 
 Can we give birth to new gods who expand our possibilities, our imaginations and our sphere of art and action?
 
