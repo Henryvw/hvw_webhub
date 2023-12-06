@@ -3,7 +3,7 @@ title: About
 layout: page
 permalink: /About
 ---
-  <img border="1.5" src="/assets/images/henry_tall_interests.jpg" class="align-right"/>
+  <img border="1.5" src="/assets/images/henry_tall_interests.jpg" align="center"/>
   <p>
     I’m a creator of startups, games, art, writing and communities living in Berlin, Germany.
   </p>
